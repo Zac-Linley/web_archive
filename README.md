@@ -1,6 +1,6 @@
 # 📚 Web Archive 书签目录
 
-> 共 **19** 条书签 · 最后更新：2026/8/28 20:30:14
+> 共 **20** 条书签 · 最后更新：2026/8/28 23:18:17
 
 > 本文件由插件自动生成，请勿手改。数据源：[data/bookmarks.json](data/bookmarks.json)
 
@@ -26,8 +26,17 @@
 - [学术论文期刊免费下载工具-知网免费下载](https://scriptcat.org/zh-CN/script-show-page/1397) 
 - [通过 pmset 工具管理 masOS 睡眠，让你的 Mac 睡得更好 - 少数派](https://sspai.com/matrix) 
 
+## 📁 未分类
+
+- [sky-tv 跨平台视频播放器，类似于tvbox的播放器，支持导入自己的视频源 - 发现频道 - 小众软件官方论坛](https://meta.appinn.net/t/topic/86971) `#tvbox`
+
+## 🏷️ 标签
+
+- [`#tvbox`](https://github.com/Zac-Linley/web_archive/search?q=tvbox&type=code)（1）
+
 ## 🕘 最近添加
 
+- [sky-tv 跨平台视频播放器，类似于tvbox的播放器，支持导入自己的视频源 - 发现频道 - 小众软件官方论坛](https://meta.appinn.net/t/topic/86971) `#tvbox`
 - [虾壳 - GitHub下载加速网站 GitHub Proxy加速器](https://xiake.pro/) 
 - [Brevo \| Email Marketing Software, Automation & CRM](https://www.brevo.com/) 
 - [9001/copyparty: Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps](https://github.com/9001/copyparty) 
@@ -37,7 +46,6 @@
 - [分享一批实用的 Logo 生成与 OG Image 生成与测 - 即刻App](https://icon.kitchen/) 
 - [在线制作ico图标 \| 在线ico图标转换工具 方便制作favicon.ico - 比特虫 - Bitbug.net](https://www.bitbug.net/) 
 - [Logo.Surf - Text to Logo & Favicon Generator](https://www.logo.surf/) 
-- [Favicon Generator for perfect icons on all browsers](https://realfavicongenerator.net/) 
 
 ---
-_生成于 2026/8/28 23:18:54_
+_生成于 2026/8/28 23:19:09_
