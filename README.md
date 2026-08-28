@@ -1,6 +1,6 @@
 # 📚 Web Archive 书签目录
 
-> 共 **20** 条书签 · 最后更新：2026/8/28 23:19:27
+> 共 **21** 条书签 · 最后更新：2026/8/28 23:21:39
 
 > 本文件由插件自动生成，请勿手改。数据源：[data/bookmarks.json](data/bookmarks.json)
 
@@ -29,13 +29,15 @@
 ## 📁 未分类
 
 - [sky-tv 跨平台视频播放器，类似于tvbox的播放器，支持导入自己的视频源 - 发现频道 - 小众软件官方论坛](https://meta.appinn.net/t/topic/86971) `#tvbox`
+- [sky-tv 跨平台视频播放器，类似于tvbox的播放器，支持导入自己的视频源 - 发现频道 - 小众软件官方论坛](https://meta.appinn.net/t/topic/86971) `#tvbox`
 
 ## 🏷️ 标签
 
-- [`#tvbox`](https://github.com/Zac-Linley/web_archive/search?q=tvbox&type=code)（1）
+- [`#tvbox`](https://github.com/Zac-Linley/web_archive/search?q=tvbox&type=code)（2）
 
 ## 🕘 最近添加
 
+- [sky-tv 跨平台视频播放器，类似于tvbox的播放器，支持导入自己的视频源 - 发现频道 - 小众软件官方论坛](https://meta.appinn.net/t/topic/86971) `#tvbox`
 - [sky-tv 跨平台视频播放器，类似于tvbox的播放器，支持导入自己的视频源 - 发现频道 - 小众软件官方论坛](https://meta.appinn.net/t/topic/86971) `#tvbox`
 - [虾壳 - GitHub下载加速网站 GitHub Proxy加速器](https://xiake.pro/) 
 - [Brevo \| Email Marketing Software, Automation & CRM](https://www.brevo.com/) 
@@ -45,7 +47,6 @@
 - [Caldis/Mos: 一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板 \| A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS](https://github.com/Caldis/Mos) 
 - [分享一批实用的 Logo 生成与 OG Image 生成与测 - 即刻App](https://icon.kitchen/) 
 - [在线制作ico图标 \| 在线ico图标转换工具 方便制作favicon.ico - 比特虫 - Bitbug.net](https://www.bitbug.net/) 
-- [Logo.Surf - Text to Logo & Favicon Generator](https://www.logo.surf/) 
 
 ---
-_生成于 2026/8/28 23:21:23_
+_生成于 2026/8/28 23:24:24_
