@@ -1,7 +1,22 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-28T19:18:17.810Z",
+  "updatedAt": "2026-08-28T19:19:27.718Z",
   "items": [
+    {
+      "id": "0c87bedd-be02-49e1-9f24-c321f73bb627",
+      "url": "https://meta.appinn.net/t/topic/86971",
+      "title": "sky-tv 跨平台视频播放器，类似于tvbox的播放器，支持导入自己的视频源 - 发现频道 - 小众软件官方论坛",
+      "folder": "",
+      "tags": [
+        "tvbox"
+      ],
+      "note": "",
+      "createdAt": "2026-08-28T19:19:27.718Z",
+      "updatedAt": "2026-08-28T19:19:27.718Z",
+      "deleted": false,
+      "source": "extension",
+      "snapshot": null
+    },
     {
       "id": "bd2c52a5-5a7e-40a7-b23e-0e53777c05ea",
       "url": "https://meta.appinn.net/t/topic/86971",
