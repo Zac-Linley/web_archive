@@ -1,7 +1,23 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-29T17:03:43.461Z",
+  "updatedAt": "2026-08-29T17:14:14.109Z",
   "items": [
+    {
+      "id": "02c0aecb-b343-4cc2-b814-73731275e405",
+      "url": "https://github.com/GXFG/newtab-naivetab",
+      "title": "GXFG/newtab-naivetab: NaiveTab - newtab extension for browser ｜浏览器新标签页扩展｜Visual keyboard for bookmarks & browser commands — one-press access. Drag & drop layout, full customization, focus mode, and cloud sync｜可视化键盘展示书签和浏览器指令，肌肉记忆一键直达。支持自由拖拽、深度自定义外观、专注模式、云同步",
+      "folder": "",
+      "tags": [],
+      "note": "",
+      "createdAt": "2026-08-29T17:14:14.109Z",
+      "updatedAt": "2026-08-29T17:14:14.109Z",
+      "deleted": false,
+      "source": "extension",
+      "snapshot": {
+        "markdown": "snapshots/02c0aecb-b343-4cc2-b814-73731275e405/page.md",
+        "html": "snapshots/02c0aecb-b343-4cc2-b814-73731275e405/page.html"
+      }
+    },
     {
       "id": "5aee66c2-dd33-46ce-944f-c8581de2d054",
       "url": "https://mp.weixin.qq.com/s/SST2rC5nsTnVR0-fxpujZw",
