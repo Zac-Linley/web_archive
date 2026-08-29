@@ -1,7 +1,20 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-29T15:42:18.708Z",
+  "updatedAt": "2026-08-29T16:26:27.687Z",
   "items": [
+    {
+      "id": "079fb601-5f2e-4923-9533-7eb1a387035a",
+      "url": "https://hellogithub.com/periodical/volume/125",
+      "title": "《HelloGitHub 月刊》第 125 期 - HelloGitHub",
+      "folder": "",
+      "tags": [],
+      "note": "",
+      "createdAt": "2026-08-29T16:26:27.687Z",
+      "updatedAt": "2026-08-29T16:26:27.687Z",
+      "deleted": false,
+      "source": "ios-shortcut",
+      "snapshot": null
+    },
     {
       "id": "2efb6f1f-9296-4c39-9f9a-5969a7a4ee56",
       "url": "https://meta.appinn.net/t/topic/86971",
