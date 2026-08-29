@@ -1,20 +1,7 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-29T14:59:17.078Z",
+  "updatedAt": "2026-08-29T15:05:56.347Z",
   "items": [
-    {
-      "id": "3b128671-5e52-491c-9267-813c71aea736",
-      "url": "https://example.com",
-      "title": "Example Domain",
-      "folder": "",
-      "tags": [],
-      "note": "",
-      "createdAt": "2026-08-29T14:54:48.809Z",
-      "updatedAt": "2026-08-29T14:59:17.068Z",
-      "deleted": false,
-      "source": "ios-shortcut",
-      "snapshot": null
-    },
     {
       "id": "2efb6f1f-9296-4c39-9f9a-5969a7a4ee56",
       "url": "https://meta.appinn.net/t/topic/86971",
