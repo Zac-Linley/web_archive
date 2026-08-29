@@ -1,12 +1,19 @@
 # 📚 Web Archive 书签目录
 
-> 共 **26** 条书签 · 最后更新：2026/8/29 21:03:43
+> **27** 条书签 · **2** 个文件夹 · **3** 个标签 · 最后更新：2026/8/29 21:14:14
 
-> 本文件由插件自动生成，请勿手改。数据源：[data/bookmarks.json](data/bookmarks.json)
+> 本文件自动生成，请勿手改。数据源：[data/bookmarks.json](data/bookmarks.json)
 
-## 📁 旧收藏
+## 📖 目录
 
-- [虾壳 - GitHub下载加速网站 GitHub Proxy加速器](https://xiake.pro/)  — GitHub加速，一个专门为GitHub用户提供下载加速服务的平台。通过多个加速节点，帮助用户快速下载GitHub上的文件、发布版本、归档文件和Gist内容。
+📁 [旧收藏](#folder-1)（19） · [未分类](#folder-2)（8）
+
+[🏷️ 标签](#tags)（3） · [🕘 最近添加](#recent)
+
+<a id="folder-1"></a>
+## 📁 旧收藏（19）
+
+- [虾壳 - GitHub下载加速网站 GitHub Proxy加速器](https://xiake.pro/)  — GitHub加速，一个专门为GitHub用户提供下载加速服务的平台。通过多个加速节点，帮助用户快…
 - [Brevo \| Email Marketing Software, Automation & CRM](https://www.brevo.com/)  — 可以提供 300/天免费额度 SMTP 邮件的服务。
 - [9001/copyparty: Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps](https://github.com/9001/copyparty)  — copyparty（文件服务器）
 - [MagicMirror²](https://magicmirror.builders/)  — 开源模块化智能镜像平台。
@@ -17,43 +24,45 @@
 - [Logo.Surf - Text to Logo & Favicon Generator](https://www.logo.surf/)  — 多尺寸Logo生成工具
 - [Favicon Generator for perfect icons on all browsers](https://realfavicongenerator.net/)  — 多尺寸Logo生成工具
 - [IconKitchen](https://icon.kitchen/i/H4sIAAAAAAAAAzWOPQ6DMAyF7%2BKuDNAfBKwdegG2qkPAJo1qYpRAUYW4e51KXWz58%2FPz2%2BBteKEIzQZowqt90kjQDIYjZTDYK7vJhDmtI2kDpMEsPEMGrhevYHUeZYU9g862n0mPwQaDjnwSdfb2H9SiF5ZQqOKQ53VZVSr4oWNCVBdUnhQZb1ltzpddTUfBhVO%2Bu3IM4jC9lqh1pQ4e%2BxfCg456wgAAAA%3D%3D)  — Logo 生成与 OG Image 生成与测试工具
-- [blakeblackshear/frigate: NVR with realtime local object detection for IP cameras](https://github.com/blakeblackshear/frigate)  — Frigate 是一款基于实时 AI 目标检测技术的开源网络录像机（NVR）。所有视频分析都在您本地设备上完成，摄像头画面全程不会上传到云端，数据安全有保障。
-- The Linux Boot Process: From Power Button to Kernel \| 0xkato  — 原文链接未捕获，全文已存档于 archive/The Linux Boot Process From Power Button to Kernel 0xkato.md
-- [Achuan-2/SlideSCI: PPT plugin, supports one-click to add image titles, copy and paste positions, one-click image alignment, and one-click to insert Markdown \(including bold, hyperlinks, and other inline styles, as well as code blocks, LaTeX, and other block-level styles\)! PPT插件，支持一键添加图片标题，复制粘贴位置、一键图片对齐、一键插入Markdown（加粗、超链接等行内样式、代码块、LaTeX等块级样式）、便捷导出图片！](https://github.com/Achuan-2/SlideSCI)  — 开源的 PPT 编辑插件。这是一款专为提升 PPT 编辑效率的插件，支持一键添加图片标题、自动对齐、复制/粘贴图片位置，以及插入 Markdown 文本和 LaTeX 数学公式。
+- [blakeblackshear/frigate: NVR with realtime local object detection for IP cameras](https://github.com/blakeblackshear/frigate)  — Frigate 是一款基于实时 AI 目标检测技术的开源网络录像机（NVR）。所有视频分析都在您…
+- The Linux Boot Process: From Power Button to Kernel \| 0xkato  — 原文链接未捕获，全文已存档于 archive/The Linux Boot Process Fr…
+- [Achuan-2/SlideSCI: PPT plugin, supports one-click to add image titles, copy and paste positions, one-click image alignment, and one-click to insert Markdown \(including bold, hyperlinks, and other inline styles, as well as code blocks, LaTeX, and other block-level styles\)! PPT插件，支持一键添加图片标题，复制粘贴位置、一键图片对齐、一键插入Markdown（加粗、超链接等行内样式、代码块、LaTeX等块级样式）、便捷导出图片！](https://github.com/Achuan-2/SlideSCI)  — 开源的 PPT 编辑插件。这是一款专为提升 PPT 编辑效率的插件，支持一键添加图片标题、自动对…
 - [使用小爱音箱播放音乐，音乐使用 yt-dlp 下载。](https://github.com/hanxi/xiaomusic)  — 使用小爱音箱播放音乐，音乐使用 yt-dlp 下载。
 - [专业的在线 M3U8 HLS 播放器](https://m3u8-player.net/zh)  — 专业的在线 M3U8/HLS 播放器
 - [使用 Cloudflare 部署 Docker 镜像代理 \| Rokcso's Blog](https://github.com/cmliu/CF-Workers-docker.io) 
 - [学术论文期刊免费下载工具-知网免费下载](https://scriptcat.org/zh-CN/script-show-page/1397) 
 - [通过 pmset 工具管理 masOS 睡眠，让你的 Mac 睡得更好 - 少数派](https://sspai.com/matrix) 
 
-## 📁 未分类
+<a id="folder-2"></a>
+## 📁 未分类（8）
 
+- [GXFG/newtab-naivetab: NaiveTab - newtab extension for browser ｜浏览器新标签页扩展｜Visual keyboard for bookmarks & browser commands — one-press access. Drag & drop layout, full customization, focus mode, and cloud sync｜可视化键盘展示书签和浏览器指令，肌肉记忆一键直达。支持自由拖拽、深度自定义外观、专注模式、云同步](https://github.com/GXFG/newtab-naivetab) 
 - [https://mp.weixin.qq.com/s/SST2rC5nsTnVR0-fxpujZw](https://mp.weixin.qq.com/s/SST2rC5nsTnVR0-fxpujZw) 
 - [Example Domain](https://example.com) 
-- [sarensw/MacPacker: Archive manager and 7zip replacement for macOS. Preview \(nested\) archives without extracting them. Extract single files.](https://github.com/sarensw/MacPacker) `#MacOS` — 免费的 macOS 压缩包管理器。这是一款免费开源的 macOS 压缩包管理工具，无需解压即可像浏览文件夹一样查看内容、直接拖出所需文件，支持 40 多种压缩包和磁盘镜像格式。
-- [Crisp：BetterDisplay 和 Lunar 的免费开源平替（macOS 显示器管理）](https://crispmac.app/zh.html) `#MacOS` — 免费的 macOS 外接显示器管理工具。这是一款用于控制外接显示器的 macOS 菜单栏应用，所有功能完全免费。支持调节亮度/音量/排列、HiDPI 缩放、配置预设、虚拟显示器等功能。
+- [sarensw/MacPacker: Archive manager and 7zip replacement for macOS. Preview \(nested\) archives without extracting them. Extract single files.](https://github.com/sarensw/MacPacker) `#MacOS` — 免费的 macOS 压缩包管理器。这是一款免费开源的 macOS 压缩包管理工具，无需解压即可像…
+- [Crisp：BetterDisplay 和 Lunar 的免费开源平替（macOS 显示器管理）](https://crispmac.app/zh.html) `#MacOS` — 免费的 macOS 外接显示器管理工具。这是一款用于控制外接显示器的 macOS 菜单栏应用，所…
 - [chuspeeism/dashi-ppt-skill: An AI-agent skill that generates browser-editable presentations from multiple visual themes, exportable to HTML, PDF, and PPTX.](https://github.com/chuspeeism/dashi-ppt-skill) `#AiAgent`
 - [Ubuntu 26.04.1 LTS 正式发布 - 小众软件](https://www.appinn.com/ubuntu-26-04-1-lts/) 
 - [sky-tv 跨平台视频播放器，类似于tvbox的播放器，支持导入自己的视频源 - 发现频道 - 小众软件官方论坛](https://meta.appinn.net/t/topic/86971) `#tvbox`
 
-## 🏷️ 标签
+<a id="tags"></a>
+## 🏷️ 标签（3）
 
-- [`#MacOS`](https://github.com/Zac-Linley/web_archive/search?q=MacOS&type=code)（2）
-- [`#AiAgent`](https://github.com/Zac-Linley/web_archive/search?q=AiAgent&type=code)（1）
-- [`#tvbox`](https://github.com/Zac-Linley/web_archive/search?q=tvbox&type=code)（1）
+[`#MacOS`](https://github.com/Zac-Linley/web_archive/search?q=MacOS&type=code)（2） · [`#AiAgent`](https://github.com/Zac-Linley/web_archive/search?q=AiAgent&type=code)（1） · [`#tvbox`](https://github.com/Zac-Linley/web_archive/search?q=tvbox&type=code)（1）
 
+<a id="recent"></a>
 ## 🕘 最近添加
 
-- [https://mp.weixin.qq.com/s/SST2rC5nsTnVR0-fxpujZw](https://mp.weixin.qq.com/s/SST2rC5nsTnVR0-fxpujZw) 
-- [Example Domain](https://example.com) 
-- [sarensw/MacPacker: Archive manager and 7zip replacement for macOS. Preview \(nested\) archives without extracting them. Extract single files.](https://github.com/sarensw/MacPacker) `#MacOS`
-- [Crisp：BetterDisplay 和 Lunar 的免费开源平替（macOS 显示器管理）](https://crispmac.app/zh.html) `#MacOS`
-- [chuspeeism/dashi-ppt-skill: An AI-agent skill that generates browser-editable presentations from multiple visual themes, exportable to HTML, PDF, and PPTX.](https://github.com/chuspeeism/dashi-ppt-skill) `#AiAgent`
-- [Ubuntu 26.04.1 LTS 正式发布 - 小众软件](https://www.appinn.com/ubuntu-26-04-1-lts/) 
-- [sky-tv 跨平台视频播放器，类似于tvbox的播放器，支持导入自己的视频源 - 发现频道 - 小众软件官方论坛](https://meta.appinn.net/t/topic/86971) `#tvbox`
-- [虾壳 - GitHub下载加速网站 GitHub Proxy加速器](https://xiake.pro/) 
-- [Brevo \| Email Marketing Software, Automation & CRM](https://www.brevo.com/) 
-- [9001/copyparty: Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps](https://github.com/9001/copyparty) 
+- [GXFG/newtab-naivetab: NaiveTab - newtab extension for browser ｜浏览器新标签页扩展｜Visual keyboard for bookmarks & browser commands — one-press access. Drag & drop layout, full customization, focus mode, and cloud sync｜可视化键盘展示书签和浏览器指令，肌肉记忆一键直达。支持自由拖拽、深度自定义外观、专注模式、云同步](https://github.com/GXFG/newtab-naivetab)  · 2026-08-29
+- [https://mp.weixin.qq.com/s/SST2rC5nsTnVR0-fxpujZw](https://mp.weixin.qq.com/s/SST2rC5nsTnVR0-fxpujZw)  · 2026-08-29
+- [Example Domain](https://example.com)  · 2026-08-29
+- [sarensw/MacPacker: Archive manager and 7zip replacement for macOS. Preview \(nested\) archives without extracting them. Extract single files.](https://github.com/sarensw/MacPacker) `#MacOS` · 2026-08-29
+- [Crisp：BetterDisplay 和 Lunar 的免费开源平替（macOS 显示器管理）](https://crispmac.app/zh.html) `#MacOS` · 2026-08-29
+- [chuspeeism/dashi-ppt-skill: An AI-agent skill that generates browser-editable presentations from multiple visual themes, exportable to HTML, PDF, and PPTX.](https://github.com/chuspeeism/dashi-ppt-skill) `#AiAgent` · 2026-08-29
+- [Ubuntu 26.04.1 LTS 正式发布 - 小众软件](https://www.appinn.com/ubuntu-26-04-1-lts/)  · 2026-08-29
+- [sky-tv 跨平台视频播放器，类似于tvbox的播放器，支持导入自己的视频源 - 发现频道 - 小众软件官方论坛](https://meta.appinn.net/t/topic/86971) `#tvbox` · 2026-08-28
+- [虾壳 - GitHub下载加速网站 GitHub Proxy加速器](https://xiake.pro/)  · 2025-11-18
+- [Brevo \| Email Marketing Software, Automation & CRM](https://www.brevo.com/)  · 2025-11-18
 
 ---
-_生成于 2026/8/29 21:13:40_
+_生成于 2026/8/29 21:27:57_
