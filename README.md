@@ -1,6 +1,6 @@
 # 📚 Web Archive 书签目录
 
-> 共 **24** 条书签 · 最后更新：2026/8/29 20:42:11
+> 共 **24** 条书签 · 最后更新：2026/8/29 16:47:38
 
 > 本文件由插件自动生成，请勿手改。数据源：[data/bookmarks.json](data/bookmarks.json)
 
@@ -28,24 +28,24 @@
 
 ## 📁 未分类
 
+- [sarensw/MacPacker: Archive manager and 7zip replacement for macOS. Preview \(nested\) archives without extracting them. Extract single files.](https://github.com/sarensw/MacPacker) `#MacOS` — 免费的 macOS 压缩包管理器。这是一款免费开源的 macOS 压缩包管理工具，无需解压即可像浏览文件夹一样查看内容、直接拖出所需文件，支持 40 多种压缩包和磁盘镜像格式。
 - [Crisp：BetterDisplay 和 Lunar 的免费开源平替（macOS 显示器管理）](https://crispmac.app/zh.html) `#MacOS` — 免费的 macOS 外接显示器管理工具。这是一款用于控制外接显示器的 macOS 菜单栏应用，所有功能完全免费。支持调节亮度/音量/排列、HiDPI 缩放、配置预设、虚拟显示器等功能。
 - [chuspeeism/dashi-ppt-skill: An AI-agent skill that generates browser-editable presentations from multiple visual themes, exportable to HTML, PDF, and PPTX.](https://github.com/chuspeeism/dashi-ppt-skill) `#AiAgent`
 - [Ubuntu 26.04.1 LTS 正式发布 - 小众软件](https://www.appinn.com/ubuntu-26-04-1-lts/) 
-- [《HelloGitHub 月刊》第 125 期 - HelloGitHub](https://hellogithub.com/periodical/volume/125) 
 - [sky-tv 跨平台视频播放器，类似于tvbox的播放器，支持导入自己的视频源 - 发现频道 - 小众软件官方论坛](https://meta.appinn.net/t/topic/86971) `#tvbox`
 
 ## 🏷️ 标签
 
-- [`#MacOS`](https://github.com/Zac-Linley/web_archive/search?q=MacOS&type=code)（1）
+- [`#MacOS`](https://github.com/Zac-Linley/web_archive/search?q=MacOS&type=code)（2）
 - [`#AiAgent`](https://github.com/Zac-Linley/web_archive/search?q=AiAgent&type=code)（1）
 - [`#tvbox`](https://github.com/Zac-Linley/web_archive/search?q=tvbox&type=code)（1）
 
 ## 🕘 最近添加
 
+- [sarensw/MacPacker: Archive manager and 7zip replacement for macOS. Preview \(nested\) archives without extracting them. Extract single files.](https://github.com/sarensw/MacPacker) `#MacOS`
 - [Crisp：BetterDisplay 和 Lunar 的免费开源平替（macOS 显示器管理）](https://crispmac.app/zh.html) `#MacOS`
 - [chuspeeism/dashi-ppt-skill: An AI-agent skill that generates browser-editable presentations from multiple visual themes, exportable to HTML, PDF, and PPTX.](https://github.com/chuspeeism/dashi-ppt-skill) `#AiAgent`
 - [Ubuntu 26.04.1 LTS 正式发布 - 小众软件](https://www.appinn.com/ubuntu-26-04-1-lts/) 
-- [《HelloGitHub 月刊》第 125 期 - HelloGitHub](https://hellogithub.com/periodical/volume/125) 
 - [sky-tv 跨平台视频播放器，类似于tvbox的播放器，支持导入自己的视频源 - 发现频道 - 小众软件官方论坛](https://meta.appinn.net/t/topic/86971) `#tvbox`
 - [虾壳 - GitHub下载加速网站 GitHub Proxy加速器](https://xiake.pro/) 
 - [Brevo \| Email Marketing Software, Automation & CRM](https://www.brevo.com/) 
@@ -54,4 +54,4 @@
 - [vsme/chinese-days: 中国法定节假日、调休和工作日、24节气查询，农历阳历互转，提供 JSON 文件，对非开发者，还提供 iCal 日历订阅，可供 Google Calendar、Apple Calendar、Microsoft Outlook 等客户端使用。](https://github.com/vsme/chinese-days?tab=readme-ov-file) 
 
 ---
-_生成于 2026/8/29 20:44:16_
+_生成于 2026/8/29 16:47:39_
