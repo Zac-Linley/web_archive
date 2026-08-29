@@ -1,7 +1,20 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-29T17:03:29.974Z",
+  "updatedAt": "2026-08-29T17:03:43.461Z",
   "items": [
+    {
+      "id": "5aee66c2-dd33-46ce-944f-c8581de2d054",
+      "url": "https://mp.weixin.qq.com/s/SST2rC5nsTnVR0-fxpujZw",
+      "title": "https://mp.weixin.qq.com/s/SST2rC5nsTnVR0-fxpujZw",
+      "folder": "",
+      "tags": [],
+      "note": "",
+      "createdAt": "2026-08-29T17:03:43.461Z",
+      "updatedAt": "2026-08-29T17:03:43.461Z",
+      "deleted": false,
+      "source": "ios-shortcut",
+      "snapshot": null
+    },
     {
       "id": "79588abe-3a9e-4e3f-888f-0165eefbad9c",
       "url": "https://example.com",
