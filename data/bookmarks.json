@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-29T16:44:14.353Z",
+  "updatedAt": "2026-08-29T16:47:38.687Z",
   "items": [
     {
       "id": "e76b919d-b227-4209-834a-3e4857a52e62",
@@ -69,7 +69,7 @@
       "note": "",
       "createdAt": "2026-08-29T16:26:27.687Z",
       "updatedAt": "2026-08-29T16:26:27.687Z",
-      "deleted": false,
+      "deleted": true,
       "source": "ios-shortcut",
       "snapshot": null
     },
