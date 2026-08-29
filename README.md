@@ -1,6 +1,6 @@
 # 📚 Web Archive 书签目录
 
-> 共 **24** 条书签 · 最后更新：2026/8/29 20:47:38
+> 共 **25** 条书签 · 最后更新：2026/8/29 17:03:29
 
 > 本文件由插件自动生成，请勿手改。数据源：[data/bookmarks.json](data/bookmarks.json)
 
@@ -28,6 +28,7 @@
 
 ## 📁 未分类
 
+- [Example Domain](https://example.com) 
 - [sarensw/MacPacker: Archive manager and 7zip replacement for macOS. Preview \(nested\) archives without extracting them. Extract single files.](https://github.com/sarensw/MacPacker) `#MacOS` — 免费的 macOS 压缩包管理器。这是一款免费开源的 macOS 压缩包管理工具，无需解压即可像浏览文件夹一样查看内容、直接拖出所需文件，支持 40 多种压缩包和磁盘镜像格式。
 - [Crisp：BetterDisplay 和 Lunar 的免费开源平替（macOS 显示器管理）](https://crispmac.app/zh.html) `#MacOS` — 免费的 macOS 外接显示器管理工具。这是一款用于控制外接显示器的 macOS 菜单栏应用，所有功能完全免费。支持调节亮度/音量/排列、HiDPI 缩放、配置预设、虚拟显示器等功能。
 - [chuspeeism/dashi-ppt-skill: An AI-agent skill that generates browser-editable presentations from multiple visual themes, exportable to HTML, PDF, and PPTX.](https://github.com/chuspeeism/dashi-ppt-skill) `#AiAgent`
@@ -42,6 +43,7 @@
 
 ## 🕘 最近添加
 
+- [Example Domain](https://example.com) 
 - [sarensw/MacPacker: Archive manager and 7zip replacement for macOS. Preview \(nested\) archives without extracting them. Extract single files.](https://github.com/sarensw/MacPacker) `#MacOS`
 - [Crisp：BetterDisplay 和 Lunar 的免费开源平替（macOS 显示器管理）](https://crispmac.app/zh.html) `#MacOS`
 - [chuspeeism/dashi-ppt-skill: An AI-agent skill that generates browser-editable presentations from multiple visual themes, exportable to HTML, PDF, and PPTX.](https://github.com/chuspeeism/dashi-ppt-skill) `#AiAgent`
@@ -51,7 +53,6 @@
 - [Brevo \| Email Marketing Software, Automation & CRM](https://www.brevo.com/) 
 - [9001/copyparty: Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps](https://github.com/9001/copyparty) 
 - [MagicMirror²](https://magicmirror.builders/) 
-- [vsme/chinese-days: 中国法定节假日、调休和工作日、24节气查询，农历阳历互转，提供 JSON 文件，对非开发者，还提供 iCal 日历订阅，可供 Google Calendar、Apple Calendar、Microsoft Outlook 等客户端使用。](https://github.com/vsme/chinese-days?tab=readme-ov-file) 
 
 ---
-_生成于 2026/8/29 20:53:57_
+_生成于 2026/8/29 17:03:31_
