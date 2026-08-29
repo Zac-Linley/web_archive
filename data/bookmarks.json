@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-29T17:27:55.315Z",
+  "updatedAt": "2026-08-29T17:31:57.748Z",
   "items": [
     {
       "id": "02c0aecb-b343-4cc2-b814-73731275e405",
@@ -34,7 +34,7 @@
       "note": "微信公众平台发布的阿联酋本地新闻简报，涵盖天气、商业与公共服务动态。",
       "createdAt": "2026-08-29T17:03:43.461Z",
       "updatedAt": "2026-08-29T17:27:55.315Z",
-      "deleted": false,
+      "deleted": true,
       "source": "ios-shortcut",
       "snapshot": null
     },
