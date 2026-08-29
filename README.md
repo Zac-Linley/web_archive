@@ -1,6 +1,6 @@
 # 📚 Web Archive 书签目录
 
-> 共 **25** 条书签 · 最后更新：2026/8/29 17:03:29
+> 共 **26** 条书签 · 最后更新：2026/8/29 17:03:43
 
 > 本文件由插件自动生成，请勿手改。数据源：[data/bookmarks.json](data/bookmarks.json)
 
@@ -28,6 +28,7 @@
 
 ## 📁 未分类
 
+- [https://mp.weixin.qq.com/s/SST2rC5nsTnVR0-fxpujZw](https://mp.weixin.qq.com/s/SST2rC5nsTnVR0-fxpujZw) 
 - [Example Domain](https://example.com) 
 - [sarensw/MacPacker: Archive manager and 7zip replacement for macOS. Preview \(nested\) archives without extracting them. Extract single files.](https://github.com/sarensw/MacPacker) `#MacOS` — 免费的 macOS 压缩包管理器。这是一款免费开源的 macOS 压缩包管理工具，无需解压即可像浏览文件夹一样查看内容、直接拖出所需文件，支持 40 多种压缩包和磁盘镜像格式。
 - [Crisp：BetterDisplay 和 Lunar 的免费开源平替（macOS 显示器管理）](https://crispmac.app/zh.html) `#MacOS` — 免费的 macOS 外接显示器管理工具。这是一款用于控制外接显示器的 macOS 菜单栏应用，所有功能完全免费。支持调节亮度/音量/排列、HiDPI 缩放、配置预设、虚拟显示器等功能。
@@ -43,6 +44,7 @@
 
 ## 🕘 最近添加
 
+- [https://mp.weixin.qq.com/s/SST2rC5nsTnVR0-fxpujZw](https://mp.weixin.qq.com/s/SST2rC5nsTnVR0-fxpujZw) 
 - [Example Domain](https://example.com) 
 - [sarensw/MacPacker: Archive manager and 7zip replacement for macOS. Preview \(nested\) archives without extracting them. Extract single files.](https://github.com/sarensw/MacPacker) `#MacOS`
 - [Crisp：BetterDisplay 和 Lunar 的免费开源平替（macOS 显示器管理）](https://crispmac.app/zh.html) `#MacOS`
@@ -52,7 +54,6 @@
 - [虾壳 - GitHub下载加速网站 GitHub Proxy加速器](https://xiake.pro/) 
 - [Brevo \| Email Marketing Software, Automation & CRM](https://www.brevo.com/) 
 - [9001/copyparty: Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps](https://github.com/9001/copyparty) 
-- [MagicMirror²](https://magicmirror.builders/) 
 
 ---
-_生成于 2026/8/29 17:03:31_
+_生成于 2026/8/29 17:03:44_
