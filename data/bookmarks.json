@@ -1,7 +1,22 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-29T16:35:34.038Z",
+  "updatedAt": "2026-08-29T16:42:11.862Z",
   "items": [
+    {
+      "id": "66bb546e-b172-48c1-98fe-5911d32d4ed4",
+      "url": "https://crispmac.app/zh.html",
+      "title": "Crisp：BetterDisplay 和 Lunar 的免费开源平替（macOS 显示器管理）",
+      "folder": "",
+      "tags": [
+        "MacOS"
+      ],
+      "note": "免费的 macOS 外接显示器管理工具。这是一款用于控制外接显示器的 macOS 菜单栏应用，所有功能完全免费。支持调节亮度/音量/排列、HiDPI 缩放、配置预设、虚拟显示器等功能。",
+      "createdAt": "2026-08-29T16:42:11.862Z",
+      "updatedAt": "2026-08-29T16:42:11.862Z",
+      "deleted": false,
+      "source": "extension",
+      "snapshot": null
+    },
     {
       "id": "7f0d19bd-5973-4cd2-b32c-de44c3ac472e",
       "url": "https://github.com/chuspeeism/dashi-ppt-skill",
