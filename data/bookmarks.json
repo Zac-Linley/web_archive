@@ -1,7 +1,20 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-28T19:21:39.478Z",
+  "updatedAt": "2026-08-29T14:59:17.078Z",
   "items": [
+    {
+      "id": "3b128671-5e52-491c-9267-813c71aea736",
+      "url": "https://example.com",
+      "title": "Example Domain",
+      "folder": "",
+      "tags": [],
+      "note": "",
+      "createdAt": "2026-08-29T14:54:48.809Z",
+      "updatedAt": "2026-08-29T14:59:17.068Z",
+      "deleted": false,
+      "source": "ios-shortcut",
+      "snapshot": null
+    },
     {
       "id": "2efb6f1f-9296-4c39-9f9a-5969a7a4ee56",
       "url": "https://meta.appinn.net/t/topic/86971",
@@ -13,21 +26,6 @@
       "note": "",
       "createdAt": "2026-08-28T19:21:39.478Z",
       "updatedAt": "2026-08-28T19:21:39.478Z",
-      "deleted": false,
-      "source": "extension",
-      "snapshot": null
-    },
-    {
-      "id": "bd2c52a5-5a7e-40a7-b23e-0e53777c05ea",
-      "url": "https://meta.appinn.net/t/topic/86971",
-      "title": "sky-tv 跨平台视频播放器，类似于tvbox的播放器，支持导入自己的视频源 - 发现频道 - 小众软件官方论坛",
-      "folder": "",
-      "tags": [
-        "tvbox"
-      ],
-      "note": "",
-      "createdAt": "2026-08-28T19:18:17.810Z",
-      "updatedAt": "2026-08-28T19:18:17.810Z",
       "deleted": false,
       "source": "extension",
       "snapshot": null

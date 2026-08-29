@@ -1,6 +1,6 @@
 # 📚 Web Archive 书签目录
 
-> 共 **21** 条书签 · 最后更新：2026/8/28 23:21:39
+> 共 **21** 条书签 · 最后更新：2026/8/29 18:59:17
 
 > 本文件由插件自动生成，请勿手改。数据源：[data/bookmarks.json](data/bookmarks.json)
 
@@ -28,16 +28,16 @@
 
 ## 📁 未分类
 
-- [sky-tv 跨平台视频播放器，类似于tvbox的播放器，支持导入自己的视频源 - 发现频道 - 小众软件官方论坛](https://meta.appinn.net/t/topic/86971) `#tvbox`
+- [Example Domain](https://example.com) 
 - [sky-tv 跨平台视频播放器，类似于tvbox的播放器，支持导入自己的视频源 - 发现频道 - 小众软件官方论坛](https://meta.appinn.net/t/topic/86971) `#tvbox`
 
 ## 🏷️ 标签
 
-- [`#tvbox`](https://github.com/Zac-Linley/web_archive/search?q=tvbox&type=code)（2）
+- [`#tvbox`](https://github.com/Zac-Linley/web_archive/search?q=tvbox&type=code)（1）
 
 ## 🕘 最近添加
 
-- [sky-tv 跨平台视频播放器，类似于tvbox的播放器，支持导入自己的视频源 - 发现频道 - 小众软件官方论坛](https://meta.appinn.net/t/topic/86971) `#tvbox`
+- [Example Domain](https://example.com) 
 - [sky-tv 跨平台视频播放器，类似于tvbox的播放器，支持导入自己的视频源 - 发现频道 - 小众软件官方论坛](https://meta.appinn.net/t/topic/86971) `#tvbox`
 - [虾壳 - GitHub下载加速网站 GitHub Proxy加速器](https://xiake.pro/) 
 - [Brevo \| Email Marketing Software, Automation & CRM](https://www.brevo.com/) 
@@ -49,4 +49,4 @@
 - [在线制作ico图标 \| 在线ico图标转换工具 方便制作favicon.ico - 比特虫 - Bitbug.net](https://www.bitbug.net/) 
 
 ---
-_生成于 2026/8/28 23:24:24_
+_生成于 2026/8/29 18:59:17_
