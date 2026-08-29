@@ -1,7 +1,22 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-29T16:42:11.862Z",
+  "updatedAt": "2026-08-29T16:44:14.353Z",
   "items": [
+    {
+      "id": "e76b919d-b227-4209-834a-3e4857a52e62",
+      "url": "https://github.com/sarensw/MacPacker",
+      "title": "sarensw/MacPacker: Archive manager and 7zip replacement for macOS. Preview (nested) archives without extracting them. Extract single files.",
+      "folder": "",
+      "tags": [
+        "MacOS"
+      ],
+      "note": "免费的 macOS 压缩包管理器。这是一款免费开源的 macOS 压缩包管理工具，无需解压即可像浏览文件夹一样查看内容、直接拖出所需文件，支持 40 多种压缩包和磁盘镜像格式。",
+      "createdAt": "2026-08-29T16:44:14.353Z",
+      "updatedAt": "2026-08-29T16:44:14.353Z",
+      "deleted": false,
+      "source": "extension",
+      "snapshot": null
+    },
     {
       "id": "66bb546e-b172-48c1-98fe-5911d32d4ed4",
       "url": "https://crispmac.app/zh.html",
