@@ -1,7 +1,22 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-29T16:28:40.253Z",
+  "updatedAt": "2026-08-29T16:35:34.038Z",
   "items": [
+    {
+      "id": "7f0d19bd-5973-4cd2-b32c-de44c3ac472e",
+      "url": "https://github.com/chuspeeism/dashi-ppt-skill",
+      "title": "chuspeeism/dashi-ppt-skill: An AI-agent skill that generates browser-editable presentations from multiple visual themes, exportable to HTML, PDF, and PPTX.",
+      "folder": "",
+      "tags": [
+        "AiAgent"
+      ],
+      "note": "",
+      "createdAt": "2026-08-29T16:35:34.038Z",
+      "updatedAt": "2026-08-29T16:35:34.038Z",
+      "deleted": false,
+      "source": "extension",
+      "snapshot": null
+    },
     {
       "id": "88c886ac-67f7-49d1-bc54-4bdfc8421d89",
       "url": "https://www.appinn.com/ubuntu-26-04-1-lts/",
