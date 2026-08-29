@@ -54,4 +54,4 @@
 - [vsme/chinese-days: 中国法定节假日、调休和工作日、24节气查询，农历阳历互转，提供 JSON 文件，对非开发者，还提供 iCal 日历订阅，可供 Google Calendar、Apple Calendar、Microsoft Outlook 等客户端使用。](https://github.com/vsme/chinese-days?tab=readme-ov-file) 
 
 ---
-_生成于 2026/8/29 20:48:33_
+_生成于 2026/8/29 20:53:57_
