@@ -1,6 +1,6 @@
 # 📚 Web Archive 书签目录
 
-> 共 **26** 条书签 · 最后更新：2026/8/29 17:03:43
+> 共 **26** 条书签 · 最后更新：2026/8/29 21:03:43
 
 > 本文件由插件自动生成，请勿手改。数据源：[data/bookmarks.json](data/bookmarks.json)
 
@@ -56,4 +56,4 @@
 - [9001/copyparty: Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps](https://github.com/9001/copyparty) 
 
 ---
-_生成于 2026/8/29 17:03:44_
+_生成于 2026/8/29 21:06:19_
