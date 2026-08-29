@@ -1,16 +1,20 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-29T17:14:14.109Z",
+  "updatedAt": "2026-08-29T17:27:55.315Z",
   "items": [
     {
       "id": "02c0aecb-b343-4cc2-b814-73731275e405",
       "url": "https://github.com/GXFG/newtab-naivetab",
-      "title": "GXFG/newtab-naivetab: NaiveTab - newtab extension for browser ｜浏览器新标签页扩展｜Visual keyboard for bookmarks & browser commands — one-press access. Drag & drop layout, full customization, focus mode, and cloud sync｜可视化键盘展示书签和浏览器指令，肌肉记忆一键直达。支持自由拖拽、深度自定义外观、专注模式、云同步",
+      "title": "NaiveTab：可视化键盘书签与指令的浏览器新标签页",
       "folder": "",
-      "tags": [],
-      "note": "",
+      "tags": [
+        "浏览器",
+        "工具",
+        "开源"
+      ],
+      "note": "以可视化键盘展示书签和浏览器指令，一键直达常用操作；支持自由拖拽布局、深度自定义外观、专注模式与云同步。",
       "createdAt": "2026-08-29T17:14:14.109Z",
-      "updatedAt": "2026-08-29T17:14:14.109Z",
+      "updatedAt": "2026-08-29T17:27:55.315Z",
       "deleted": false,
       "source": "extension",
       "snapshot": {
@@ -21,12 +25,15 @@
     {
       "id": "5aee66c2-dd33-46ce-944f-c8581de2d054",
       "url": "https://mp.weixin.qq.com/s/SST2rC5nsTnVR0-fxpujZw",
-      "title": "https://mp.weixin.qq.com/s/SST2rC5nsTnVR0-fxpujZw",
+      "title": "阿联酋每日简报：高温、塔可钟回归、阿航餐饮与警方培训",
       "folder": "",
-      "tags": [],
-      "note": "",
+      "tags": [
+        "新闻",
+        "阿联酋"
+      ],
+      "note": "微信公众平台发布的阿联酋本地新闻简报，涵盖天气、商业与公共服务动态。",
       "createdAt": "2026-08-29T17:03:43.461Z",
-      "updatedAt": "2026-08-29T17:03:43.461Z",
+      "updatedAt": "2026-08-29T17:27:55.315Z",
       "deleted": false,
       "source": "ios-shortcut",
       "snapshot": null
@@ -36,10 +43,12 @@
       "url": "https://example.com",
       "title": "Example Domain",
       "folder": "",
-      "tags": [],
-      "note": "",
+      "tags": [
+        "测试"
+      ],
+      "note": "测试条目：用于验证收藏、同步与检索流程的示例域名。",
       "createdAt": "2026-08-29T17:03:29.974Z",
-      "updatedAt": "2026-08-29T17:03:29.974Z",
+      "updatedAt": "2026-08-29T17:27:55.315Z",
       "deleted": false,
       "source": "ios-shortcut",
       "snapshot": null
@@ -47,14 +56,16 @@
     {
       "id": "e76b919d-b227-4209-834a-3e4857a52e62",
       "url": "https://github.com/sarensw/MacPacker",
-      "title": "sarensw/MacPacker: Archive manager and 7zip replacement for macOS. Preview (nested) archives without extracting them. Extract single files.",
+      "title": "MacPacker：macOS 压缩包管理器",
       "folder": "",
       "tags": [
-        "MacOS"
+        "MacOS",
+        "工具",
+        "开源"
       ],
-      "note": "免费的 macOS 压缩包管理器。这是一款免费开源的 macOS 压缩包管理工具，无需解压即可像浏览文件夹一样查看内容、直接拖出所需文件，支持 40 多种压缩包和磁盘镜像格式。",
+      "note": "免费开源的 macOS 压缩包管理工具，无需解压即可像浏览文件夹一样查看内容、直接拖出所需文件，支持 40 多种压缩包和磁盘镜像格式。",
       "createdAt": "2026-08-29T16:44:14.353Z",
-      "updatedAt": "2026-08-29T16:44:14.353Z",
+      "updatedAt": "2026-08-29T17:27:55.315Z",
       "deleted": false,
       "source": "extension",
       "snapshot": null
@@ -62,14 +73,16 @@
     {
       "id": "66bb546e-b172-48c1-98fe-5911d32d4ed4",
       "url": "https://crispmac.app/zh.html",
-      "title": "Crisp：BetterDisplay 和 Lunar 的免费开源平替（macOS 显示器管理）",
+      "title": "Crisp：免费开源的 macOS 显示器管理工具",
       "folder": "",
       "tags": [
-        "MacOS"
+        "MacOS",
+        "工具",
+        "开源"
       ],
-      "note": "免费的 macOS 外接显示器管理工具。这是一款用于控制外接显示器的 macOS 菜单栏应用，所有功能完全免费。支持调节亮度/音量/排列、HiDPI 缩放、配置预设、虚拟显示器等功能。",
+      "note": "BetterDisplay 和 Lunar 的免费开源替代品，支持调节亮度/音量/排列、HiDPI 缩放、配置预设、虚拟显示器等功能。",
       "createdAt": "2026-08-29T16:42:11.862Z",
-      "updatedAt": "2026-08-29T16:42:11.862Z",
+      "updatedAt": "2026-08-29T17:27:55.315Z",
       "deleted": false,
       "source": "extension",
       "snapshot": null
@@ -77,14 +90,15 @@
     {
       "id": "7f0d19bd-5973-4cd2-b32c-de44c3ac472e",
       "url": "https://github.com/chuspeeism/dashi-ppt-skill",
-      "title": "chuspeeism/dashi-ppt-skill: An AI-agent skill that generates browser-editable presentations from multiple visual themes, exportable to HTML, PDF, and PPTX.",
+      "title": "Dashi PPT Skill：AI 生成可编辑演示文稿",
       "folder": "",
       "tags": [
-        "AiAgent"
+        "AiAgent",
+        "PPT"
       ],
-      "note": "",
+      "note": "AI Agent Skill，可从多种视觉主题生成浏览器可编辑的演示文稿，并导出为 HTML、PDF 和 PPTX。",
       "createdAt": "2026-08-29T16:35:34.038Z",
-      "updatedAt": "2026-08-29T16:35:34.038Z",
+      "updatedAt": "2026-08-29T17:27:55.315Z",
       "deleted": false,
       "source": "extension",
       "snapshot": null
@@ -92,12 +106,16 @@
     {
       "id": "88c886ac-67f7-49d1-bc54-4bdfc8421d89",
       "url": "https://www.appinn.com/ubuntu-26-04-1-lts/",
-      "title": "Ubuntu 26.04.1 LTS 正式发布 - 小众软件",
+      "title": "Ubuntu 26.04.1 LTS 正式发布",
       "folder": "",
-      "tags": [],
-      "note": "",
+      "tags": [
+        "Linux",
+        "系统",
+        "新闻"
+      ],
+      "note": "小众软件报道的 Ubuntu 26.04.1 LTS 发布消息，适合关注长期支持版系统更新的读者。",
       "createdAt": "2026-08-29T16:28:40.253Z",
-      "updatedAt": "2026-08-29T16:28:40.253Z",
+      "updatedAt": "2026-08-29T17:27:55.315Z",
       "deleted": false,
       "source": "ios-shortcut",
       "snapshot": null
@@ -118,14 +136,16 @@
     {
       "id": "2efb6f1f-9296-4c39-9f9a-5969a7a4ee56",
       "url": "https://meta.appinn.net/t/topic/86971",
-      "title": "sky-tv 跨平台视频播放器，类似于tvbox的播放器，支持导入自己的视频源 - 发现频道 - 小众软件官方论坛",
+      "title": "sky-tv：跨平台 TVBox 类视频播放器",
       "folder": "",
       "tags": [
-        "tvbox"
+        "tvbox",
+        "视频",
+        "工具"
       ],
-      "note": "",
+      "note": "跨平台视频播放器，类似 TVBox，支持导入自己的视频源，可自定义播放内容。",
       "createdAt": "2026-08-28T19:21:39.478Z",
-      "updatedAt": "2026-08-28T19:21:39.478Z",
+      "updatedAt": "2026-08-29T17:27:55.315Z",
       "deleted": false,
       "source": "extension",
       "snapshot": null
@@ -133,12 +153,15 @@
     {
       "id": "c5b67f5a-069b-40b0-8651-cca1c1878ee9",
       "url": "https://xiake.pro/",
-      "title": "虾壳 - GitHub下载加速网站 GitHub Proxy加速器",
+      "title": "虾壳：GitHub 下载加速",
       "folder": "旧收藏",
-      "tags": [],
-      "note": "GitHub加速，一个专门为GitHub用户提供下载加速服务的平台。通过多个加速节点，帮助用户快速下载GitHub上的文件、发布版本、归档文件和Gist内容。",
+      "tags": [
+        "GitHub",
+        "工具"
+      ],
+      "note": "GitHub 加速服务，通过多个加速节点帮助快速下载 GitHub 文件、发布版本、归档文件与 Gist。",
       "createdAt": "2025-11-18T15:12:04+08:00",
-      "updatedAt": "2025-11-18T15:12:04+08:00",
+      "updatedAt": "2026-08-29T17:27:55.315Z",
       "deleted": false,
       "source": "legacy-clip",
       "snapshot": null
@@ -146,12 +169,15 @@
     {
       "id": "82df1a97-ac14-49a7-b3c0-3c73f83243f7",
       "url": "https://www.brevo.com/",
-      "title": "Brevo | Email Marketing Software, Automation & CRM",
+      "title": "Brevo：邮件营销与自动化平台",
       "folder": "旧收藏",
-      "tags": [],
-      "note": "可以提供 300/天免费额度 SMTP 邮件的服务。",
+      "tags": [
+        "邮件",
+        "工具"
+      ],
+      "note": "邮件营销与自动化平台，提供每天 300 封的免费 SMTP 额度。",
       "createdAt": "2025-11-18T15:05:50+08:00",
-      "updatedAt": "2025-11-18T15:05:50+08:00",
+      "updatedAt": "2026-08-29T17:27:55.315Z",
       "deleted": false,
       "source": "legacy-clip",
       "snapshot": null
@@ -159,12 +185,16 @@
     {
       "id": "84803dfe-9e97-4d05-b207-2f155e3806c5",
       "url": "https://github.com/9001/copyparty",
-      "title": "9001/copyparty: Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps",
+      "title": "copyparty：便携文件服务器",
       "folder": "旧收藏",
-      "tags": [],
-      "note": "copyparty（文件服务器）",
+      "tags": [
+        "工具",
+        "自托管",
+        "开源"
+      ],
+      "note": "单文件、零依赖的便携文件服务器，支持加速断点续传、去重、WebDAV、FTP、TFTP、媒体索引与缩略图。",
       "createdAt": "2025-11-17T20:33:04+08:00",
-      "updatedAt": "2025-11-17T20:33:04+08:00",
+      "updatedAt": "2026-08-29T17:27:55.315Z",
       "deleted": false,
       "source": "legacy-clip",
       "snapshot": null
@@ -172,12 +202,15 @@
     {
       "id": "a3459ebf-d09b-4a28-bd4b-e7d1ea37e2b6",
       "url": "https://magicmirror.builders/",
-      "title": "MagicMirror²",
+      "title": "MagicMirror²：开源智能镜面平台",
       "folder": "旧收藏",
-      "tags": [],
-      "note": "开源模块化智能镜像平台。",
+      "tags": [
+        "开源",
+        "智能家居"
+      ],
+      "note": "开源的模块化智能镜面平台，可在镜面屏幕上展示天气、日历、新闻等自定义模块。",
       "createdAt": "2025-11-17T20:29:09+08:00",
-      "updatedAt": "2025-11-17T20:29:09+08:00",
+      "updatedAt": "2026-08-29T17:27:55.315Z",
       "deleted": false,
       "source": "legacy-clip",
       "snapshot": null
@@ -185,12 +218,16 @@
     {
       "id": "c231cbc0-c047-4b78-935f-18d88d81b4dc",
       "url": "https://github.com/vsme/chinese-days?tab=readme-ov-file",
-      "title": "vsme/chinese-days: 中国法定节假日、调休和工作日、24节气查询，农历阳历互转，提供 JSON 文件，对非开发者，还提供 iCal 日历订阅，可供 Google Calendar、Apple Calendar、Microsoft Outlook 等客户端使用。",
+      "title": "chinese-days：中国节假日与农历查询数据",
       "folder": "旧收藏",
-      "tags": [],
-      "note": "",
+      "tags": [
+        "开发",
+        "工具",
+        "开源"
+      ],
+      "note": "提供中国法定节假日、调休、工作日、24 节气与农历/阳历互转的 JSON 数据，另有 iCal 订阅可供各类日历客户端使用。",
       "createdAt": "2025-11-14T16:39:04+08:00",
-      "updatedAt": "2025-11-14T16:39:04+08:00",
+      "updatedAt": "2026-08-29T17:27:55.315Z",
       "deleted": false,
       "source": "legacy-clip",
       "snapshot": null
@@ -198,12 +235,16 @@
     {
       "id": "76b81b09-ec2d-4a02-82c1-0d7451a94fa3",
       "url": "https://github.com/Caldis/Mos",
-      "title": "Caldis/Mos: 一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板 | A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS",
+      "title": "Mos：macOS 鼠标滚动平滑工具",
       "folder": "旧收藏",
-      "tags": [],
-      "note": "一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板",
+      "tags": [
+        "MacOS",
+        "工具",
+        "开源"
+      ],
+      "note": "轻量 macOS 小工具，可平滑鼠标滚动效果或单独设置滚动方向，让滚轮手感接近触控板。",
       "createdAt": "2025-11-13T13:56:28+08:00",
-      "updatedAt": "2025-11-13T13:56:28+08:00",
+      "updatedAt": "2026-08-29T17:27:55.315Z",
       "deleted": false,
       "source": "legacy-clip",
       "snapshot": null
@@ -211,12 +252,16 @@
     {
       "id": "c37ddb3e-239b-4f3d-9906-877f33af8d06",
       "url": "https://icon.kitchen/",
-      "title": "分享一批实用的 Logo 生成与 OG Image 生成与测 - 即刻App",
+      "title": "IconKitchen：Logo 与 OG Image 生成工具",
       "folder": "旧收藏",
-      "tags": [],
-      "note": "",
+      "tags": [
+        "设计",
+        "图标",
+        "工具"
+      ],
+      "note": "可生成 App 图标、Logo 与 OG Image，适合快速制作各平台图标素材。",
       "createdAt": "2025-11-02T15:44:46+04:00",
-      "updatedAt": "2025-11-02T15:44:46+04:00",
+      "updatedAt": "2026-08-29T17:27:55.315Z",
       "deleted": false,
       "source": "legacy-clip",
       "snapshot": null
@@ -224,12 +269,16 @@
     {
       "id": "e620ba08-afe5-4c23-a10f-3e32fc66c93e",
       "url": "https://www.bitbug.net/",
-      "title": "在线制作ico图标 | 在线ico图标转换工具 方便制作favicon.ico - 比特虫 - Bitbug.net",
+      "title": "比特虫：在线 ICO 图标制作",
       "folder": "旧收藏",
-      "tags": [],
-      "note": "favicon图标",
+      "tags": [
+        "设计",
+        "图标",
+        "工具"
+      ],
+      "note": "在线制作 ICO 图标与 favicon.ico，支持图片转图标。",
       "createdAt": "2025-11-02T15:44:08+04:00",
-      "updatedAt": "2025-11-02T15:44:08+04:00",
+      "updatedAt": "2026-08-29T17:27:55.315Z",
       "deleted": false,
       "source": "legacy-clip",
       "snapshot": null
@@ -237,12 +286,16 @@
     {
       "id": "774686b1-98e6-4a00-840c-40d1812252ad",
       "url": "https://www.logo.surf/",
-      "title": "Logo.Surf - Text to Logo & Favicon Generator",
+      "title": "Logo.Surf：文字转 Logo 与 Favicon",
       "folder": "旧收藏",
-      "tags": [],
-      "note": "多尺寸Logo生成工具",
+      "tags": [
+        "设计",
+        "图标",
+        "工具"
+      ],
+      "note": "输入文字即可生成多尺寸 Logo 与 Favicon。",
       "createdAt": "2025-11-02T15:42:56+04:00",
-      "updatedAt": "2025-11-02T15:42:56+04:00",
+      "updatedAt": "2026-08-29T17:27:55.315Z",
       "deleted": false,
       "source": "legacy-clip",
       "snapshot": null
@@ -250,12 +303,16 @@
     {
       "id": "297178e2-e186-4ff1-9039-a2a41e986664",
       "url": "https://realfavicongenerator.net/",
-      "title": "Favicon Generator for perfect icons on all browsers",
+      "title": "RealFaviconGenerator：全浏览器 Favicon 生成器",
       "folder": "旧收藏",
-      "tags": [],
-      "note": "多尺寸Logo生成工具",
+      "tags": [
+        "设计",
+        "图标",
+        "工具"
+      ],
+      "note": "为所有浏览器和设备生成 favicon，并提供接入代码。",
       "createdAt": "2025-11-02T15:42:31+04:00",
-      "updatedAt": "2025-11-02T15:42:31+04:00",
+      "updatedAt": "2026-08-29T17:27:55.315Z",
       "deleted": false,
       "source": "legacy-clip",
       "snapshot": null
@@ -263,12 +320,16 @@
     {
       "id": "1949c240-d80e-4c07-bb21-7fd5fc5508ba",
       "url": "https://icon.kitchen/i/H4sIAAAAAAAAAzWOPQ6DMAyF7%2BKuDNAfBKwdegG2qkPAJo1qYpRAUYW4e51KXWz58%2FPz2%2BBteKEIzQZowqt90kjQDIYjZTDYK7vJhDmtI2kDpMEsPEMGrhevYHUeZYU9g862n0mPwQaDjnwSdfb2H9SiF5ZQqOKQ53VZVSr4oWNCVBdUnhQZb1ltzpddTUfBhVO%2Bu3IM4jC9lqh1pQ4e%2BxfCg456wgAAAA%3D%3D",
-      "title": "IconKitchen",
+      "title": "IconKitchen：Logo 与 OG Image 生成与测试",
       "folder": "旧收藏",
-      "tags": [],
-      "note": "Logo 生成与 OG Image 生成与测试工具",
+      "tags": [
+        "设计",
+        "图标",
+        "工具"
+      ],
+      "note": "icon.kitchen 的配置页链接，用于 Logo 与 OG Image 生成和测试。",
       "createdAt": "2025-11-02T15:42:09+04:00",
-      "updatedAt": "2025-11-02T15:42:09+04:00",
+      "updatedAt": "2026-08-29T17:27:55.315Z",
       "deleted": false,
       "source": "legacy-clip",
       "snapshot": null
@@ -276,12 +337,16 @@
     {
       "id": "e8de4ca9-268c-4b56-a5fd-e4f9e361ad32",
       "url": "https://github.com/blakeblackshear/frigate",
-      "title": "blakeblackshear/frigate: NVR with realtime local object detection for IP cameras",
+      "title": "Frigate：本地实时目标检测 NVR",
       "folder": "旧收藏",
-      "tags": [],
-      "note": "Frigate 是一款基于实时 AI 目标检测技术的开源网络录像机（NVR）。所有视频分析都在您本地设备上完成，摄像头画面全程不会上传到云端，数据安全有保障。",
+      "tags": [
+        "监控",
+        "AI",
+        "开源"
+      ],
+      "note": "基于实时 AI 目标检测的开源网络录像机（NVR），视频分析全部在本地完成，摄像头画面不会上传到云端。",
       "createdAt": "2025-11-02T15:34:16+04:00",
-      "updatedAt": "2025-11-02T15:34:16+04:00",
+      "updatedAt": "2026-08-29T17:27:55.315Z",
       "deleted": false,
       "source": "legacy-clip",
       "snapshot": null
@@ -289,12 +354,16 @@
     {
       "id": "81f159e3-6435-4b2a-bc7d-5f0000fb5c76",
       "url": "",
-      "title": "The Linux Boot Process: From Power Button to Kernel | 0xkato",
+      "title": "The Linux Boot Process: From Power Button to Kernel",
       "folder": "旧收藏",
-      "tags": [],
-      "note": "原文链接未捕获，全文已存档于 archive/The Linux Boot Process From Power Button to Kernel 0xkato.md",
+      "tags": [
+        "Linux",
+        "系统",
+        "开发"
+      ],
+      "note": "讲解 Linux 从按下电源键到内核启动的完整流程；原文链接未捕获，全文已存档于 archive/ 目录。",
       "createdAt": "2025-11-02T15:33:29+04:00",
-      "updatedAt": "2025-11-02T15:33:29+04:00",
+      "updatedAt": "2026-08-29T17:27:55.315Z",
       "deleted": false,
       "source": "legacy-clip",
       "snapshot": null
@@ -302,12 +371,16 @@
     {
       "id": "bf4aba82-7890-4d08-8279-2283596a3dae",
       "url": "https://github.com/Achuan-2/SlideSCI",
-      "title": "Achuan-2/SlideSCI: PPT plugin, supports one-click to add image titles, copy and paste positions, one-click image alignment, and one-click to insert Markdown (including bold, hyperlinks, and other inline styles, as well as code blocks, LaTeX, and other block-level styles)! PPT插件，支持一键添加图片标题，复制粘贴位置、一键图片对齐、一键插入Markdown（加粗、超链接等行内样式、代码块、LaTeX等块级样式）、便捷导出图片！",
+      "title": "SlideSCI：PPT 效率插件",
       "folder": "旧收藏",
-      "tags": [],
-      "note": "开源的 PPT 编辑插件。这是一款专为提升 PPT 编辑效率的插件，支持一键添加图片标题、自动对齐、复制/粘贴图片位置，以及插入 Markdown 文本和 LaTeX 数学公式。",
+      "tags": [
+        "PPT",
+        "工具",
+        "开源"
+      ],
+      "note": "开源 PPT 编辑插件：一键添加图片标题、复制/粘贴图片位置、图片对齐，以及插入 Markdown 与 LaTeX 公式。",
       "createdAt": "2025-10-30T01:25:35+04:00",
-      "updatedAt": "2025-10-30T01:25:35+04:00",
+      "updatedAt": "2026-08-29T17:27:55.315Z",
       "deleted": false,
       "source": "legacy-clip",
       "snapshot": null
@@ -315,12 +388,16 @@
     {
       "id": "0a8d0844-bdbc-4cf6-879f-2e68435532a8",
       "url": "https://github.com/hanxi/xiaomusic",
-      "title": "使用小爱音箱播放音乐，音乐使用 yt-dlp 下载。",
+      "title": "xiaomusic：小爱音箱播放本地音乐",
       "folder": "旧收藏",
-      "tags": [],
-      "note": "使用小爱音箱播放音乐，音乐使用 yt-dlp 下载。",
+      "tags": [
+        "音乐",
+        "智能家居",
+        "开源"
+      ],
+      "note": "让小爱音箱播放音乐，音频通过 yt-dlp 下载，适合打造家庭点歌体验。",
       "createdAt": "2025-10-30T01:19:35+04:00",
-      "updatedAt": "2025-10-30T01:19:35+04:00",
+      "updatedAt": "2026-08-29T17:27:55.315Z",
       "deleted": false,
       "source": "legacy-clip",
       "snapshot": null
@@ -328,12 +405,15 @@
     {
       "id": "62e6345a-2726-4615-b43a-40bdfaf4d8f5",
       "url": "https://m3u8-player.net/zh",
-      "title": "专业的在线 M3U8 HLS 播放器",
+      "title": "M3U8 Player：在线 HLS 播放器",
       "folder": "旧收藏",
-      "tags": [],
-      "note": "专业的在线 M3U8/HLS 播放器",
+      "tags": [
+        "视频",
+        "工具"
+      ],
+      "note": "专业的在线 M3U8/HLS 播放器，无需安装即可播放流媒体链接。",
       "createdAt": "2025-10-30T01:18:35+04:00",
-      "updatedAt": "2025-10-30T01:18:35+04:00",
+      "updatedAt": "2026-08-29T17:27:55.315Z",
       "deleted": false,
       "source": "legacy-clip",
       "snapshot": null
@@ -341,12 +421,16 @@
     {
       "id": "7b94324f-e831-4a50-be75-a5ae7036049a",
       "url": "https://github.com/cmliu/CF-Workers-docker.io",
-      "title": "使用 Cloudflare 部署 Docker 镜像代理 | Rokcso's Blog",
+      "title": "CF-Workers-docker.io：Cloudflare 部署 Docker 镜像代理",
       "folder": "旧收藏",
-      "tags": [],
-      "note": "",
+      "tags": [
+        "Cloudflare",
+        "工具",
+        "开发"
+      ],
+      "note": "使用 Cloudflare Workers 自建 Docker 镜像加速代理，可缓解国内拉取镜像的访问限制。",
       "createdAt": "2025-07-19T18:07:24+04:00",
-      "updatedAt": "2025-07-19T18:07:24+04:00",
+      "updatedAt": "2026-08-29T17:27:55.315Z",
       "deleted": false,
       "source": "legacy-clip",
       "snapshot": null
@@ -354,12 +438,15 @@
     {
       "id": "37b765ab-2ee3-47a7-88ad-79a057275701",
       "url": "https://scriptcat.org/zh-CN/script-show-page/1397",
-      "title": "学术论文期刊免费下载工具-知网免费下载",
+      "title": "学术论文期刊免费下载工具（知网）",
       "folder": "旧收藏",
-      "tags": [],
-      "note": "",
+      "tags": [
+        "学术",
+        "工具"
+      ],
+      "note": "油猴脚本，可免费下载知网等学术论文期刊。",
       "createdAt": "2025-07-02T09:41:07+04:00",
-      "updatedAt": "2025-07-02T09:41:07+04:00",
+      "updatedAt": "2026-08-29T17:27:55.315Z",
       "deleted": false,
       "source": "legacy-clip",
       "snapshot": null
@@ -367,12 +454,15 @@
     {
       "id": "b6a780cf-f762-4c15-a716-b9ccb9cab335",
       "url": "https://sspai.com/matrix",
-      "title": "通过 pmset 工具管理 masOS 睡眠，让你的 Mac 睡得更好 - 少数派",
+      "title": "用 pmset 管理 macOS 睡眠",
       "folder": "旧收藏",
-      "tags": [],
-      "note": "",
+      "tags": [
+        "MacOS",
+        "系统"
+      ],
+      "note": "少数派文章，介绍通过 pmset 命令管理 macOS 睡眠设置，让 Mac 休眠更省电、更可控。",
       "createdAt": "2025-06-24T22:39:24+04:00",
-      "updatedAt": "2025-06-24T22:39:24+04:00",
+      "updatedAt": "2026-08-29T17:27:55.315Z",
       "deleted": false,
       "source": "legacy-clip",
       "snapshot": null
