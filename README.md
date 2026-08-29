@@ -1,6 +1,6 @@
 # 📚 Web Archive 书签目录
 
-> 共 **22** 条书签 · 最后更新：2026/8/29 20:28:40
+> 共 **23** 条书签 · 最后更新：2026/8/29 20:35:34
 
 > 本文件由插件自动生成，请勿手改。数据源：[data/bookmarks.json](data/bookmarks.json)
 
@@ -28,16 +28,19 @@
 
 ## 📁 未分类
 
+- [chuspeeism/dashi-ppt-skill: An AI-agent skill that generates browser-editable presentations from multiple visual themes, exportable to HTML, PDF, and PPTX.](https://github.com/chuspeeism/dashi-ppt-skill) `#AiAgent`
 - [Ubuntu 26.04.1 LTS 正式发布 - 小众软件](https://www.appinn.com/ubuntu-26-04-1-lts/) 
 - [《HelloGitHub 月刊》第 125 期 - HelloGitHub](https://hellogithub.com/periodical/volume/125) 
 - [sky-tv 跨平台视频播放器，类似于tvbox的播放器，支持导入自己的视频源 - 发现频道 - 小众软件官方论坛](https://meta.appinn.net/t/topic/86971) `#tvbox`
 
 ## 🏷️ 标签
 
+- [`#AiAgent`](https://github.com/Zac-Linley/web_archive/search?q=AiAgent&type=code)（1）
 - [`#tvbox`](https://github.com/Zac-Linley/web_archive/search?q=tvbox&type=code)（1）
 
 ## 🕘 最近添加
 
+- [chuspeeism/dashi-ppt-skill: An AI-agent skill that generates browser-editable presentations from multiple visual themes, exportable to HTML, PDF, and PPTX.](https://github.com/chuspeeism/dashi-ppt-skill) `#AiAgent`
 - [Ubuntu 26.04.1 LTS 正式发布 - 小众软件](https://www.appinn.com/ubuntu-26-04-1-lts/) 
 - [《HelloGitHub 月刊》第 125 期 - HelloGitHub](https://hellogithub.com/periodical/volume/125) 
 - [sky-tv 跨平台视频播放器，类似于tvbox的播放器，支持导入自己的视频源 - 发现频道 - 小众软件官方论坛](https://meta.appinn.net/t/topic/86971) `#tvbox`
@@ -47,7 +50,6 @@
 - [MagicMirror²](https://magicmirror.builders/) 
 - [vsme/chinese-days: 中国法定节假日、调休和工作日、24节气查询，农历阳历互转，提供 JSON 文件，对非开发者，还提供 iCal 日历订阅，可供 Google Calendar、Apple Calendar、Microsoft Outlook 等客户端使用。](https://github.com/vsme/chinese-days?tab=readme-ov-file) 
 - [Caldis/Mos: 一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板 \| A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS](https://github.com/Caldis/Mos) 
-- [分享一批实用的 Logo 生成与 OG Image 生成与测 - 即刻App](https://icon.kitchen/) 
 
 ---
-_生成于 2026/8/29 20:35:35_
+_生成于 2026/8/29 20:37:48_
