@@ -1,7 +1,20 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-29T16:26:27.687Z",
+  "updatedAt": "2026-08-29T16:28:40.253Z",
   "items": [
+    {
+      "id": "88c886ac-67f7-49d1-bc54-4bdfc8421d89",
+      "url": "https://www.appinn.com/ubuntu-26-04-1-lts/",
+      "title": "Ubuntu 26.04.1 LTS 正式发布 - 小众软件",
+      "folder": "",
+      "tags": [],
+      "note": "",
+      "createdAt": "2026-08-29T16:28:40.253Z",
+      "updatedAt": "2026-08-29T16:28:40.253Z",
+      "deleted": false,
+      "source": "ios-shortcut",
+      "snapshot": null
+    },
     {
       "id": "079fb601-5f2e-4923-9533-7eb1a387035a",
       "url": "https://hellogithub.com/periodical/volume/125",
