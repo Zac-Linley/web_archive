@@ -1,7 +1,20 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-30T09:55:02.780Z",
+  "updatedAt": "2026-08-30T09:57:26.558Z",
   "items": [
+    {
+      "id": "5b3aeced-a5fe-44d5-b448-4aa289b0ab78",
+      "url": "https://gitlab.com/hunter-xue/chrome-lingo-craft/-/blob/main/README.zh-CN.md",
+      "title": "README.zh-CN.md · main · xue / chrome-lingo-craft · GitLab",
+      "folder": "",
+      "tags": [],
+      "note": "",
+      "createdAt": "2026-08-30T09:57:26.558Z",
+      "updatedAt": "2026-08-30T09:57:26.558Z",
+      "deleted": false,
+      "source": "ios-shortcut",
+      "snapshot": null
+    },
     {
       "id": "468c2851-a2c4-4eb0-a263-e03a515bd81e",
       "url": "https://v2ex.com/t/1237723",
