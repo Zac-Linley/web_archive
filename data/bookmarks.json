@@ -1,7 +1,22 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-30T09:57:26.558Z",
+  "updatedAt": "2026-08-30T15:58:05.826Z",
   "items": [
+    {
+      "id": "aa189671-ddfa-4442-ba62-eab84c92805e",
+      "url": "https://charlespikachu.github.io/musicsquare/",
+      "title": "皮卡丘的音乐站 - Pikachu Music",
+      "folder": "",
+      "tags": [
+        "音乐"
+      ],
+      "note": "",
+      "createdAt": "2026-08-30T15:58:05.824Z",
+      "updatedAt": "2026-08-30T15:58:05.826Z",
+      "deleted": false,
+      "source": "extension",
+      "snapshot": null
+    },
     {
       "id": "5b3aeced-a5fe-44d5-b448-4aa289b0ab78",
       "url": "https://gitlab.com/hunter-xue/chrome-lingo-craft/-/blob/main/README.zh-CN.md",
