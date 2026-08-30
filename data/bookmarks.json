@@ -1,7 +1,22 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-30T15:58:05.826Z",
+  "updatedAt": "2026-08-30T16:20:44.429Z",
   "items": [
+    {
+      "id": "fd7cd398-9ef7-472f-a931-42989fa15fb2",
+      "url": "http://music.hi.cn/",
+      "title": "音乐搜索器 - 多站合一音乐搜索,音乐在线试听",
+      "folder": "",
+      "tags": [
+        "音乐"
+      ],
+      "note": "",
+      "createdAt": "2026-08-30T16:20:44.428Z",
+      "updatedAt": "2026-08-30T16:20:44.429Z",
+      "deleted": false,
+      "source": "extension",
+      "snapshot": null
+    },
     {
       "id": "aa189671-ddfa-4442-ba62-eab84c92805e",
       "url": "https://charlespikachu.github.io/musicsquare/",
