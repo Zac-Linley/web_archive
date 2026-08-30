@@ -1,7 +1,20 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-29T17:31:57.748Z",
+  "updatedAt": "2026-08-30T09:24:04.705Z",
   "items": [
+    {
+      "id": "d1f949c9-6c81-4fef-80d9-b801e7974f38",
+      "url": "https://t.me/TossLabChannel/1168",
+      "title": "Telegram: View @TossLabChannel",
+      "folder": "",
+      "tags": [],
+      "note": "",
+      "createdAt": "2026-08-30T09:24:04.705Z",
+      "updatedAt": "2026-08-30T09:24:04.705Z",
+      "deleted": false,
+      "source": "ios-shortcut",
+      "snapshot": null
+    },
     {
       "id": "02c0aecb-b343-4cc2-b814-73731275e405",
       "url": "https://github.com/GXFG/newtab-naivetab",
