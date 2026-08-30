@@ -1,7 +1,20 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-30T09:50:36.540Z",
+  "updatedAt": "2026-08-30T09:55:02.780Z",
   "items": [
+    {
+      "id": "468c2851-a2c4-4eb0-a263-e03a515bd81e",
+      "url": "https://v2ex.com/t/1237723",
+      "title": "免费模型汇总 - V2EX",
+      "folder": "",
+      "tags": [],
+      "note": "",
+      "createdAt": "2026-08-30T09:55:02.780Z",
+      "updatedAt": "2026-08-30T09:55:02.780Z",
+      "deleted": false,
+      "source": "ios-shortcut",
+      "snapshot": null
+    },
     {
       "id": "ba11905d-23e9-4e6a-a42f-4d6c3783f566",
       "url": "https://apps.apple.com/cn/app/%E7%99%BD%E7%BA%B8%E6%97%A5%E5%8E%86/id6771203171?l=en-GB&mt=12",
