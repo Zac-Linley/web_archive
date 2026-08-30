@@ -1,11 +1,11 @@
 # 📚 Web Archive 书签目录
-> **29** 条书签 · **2** 个文件夹 · **24** 个标签 · 最后更新：2026/8/30 09:55:02
+> **30** 条书签 · **2** 个文件夹 · **24** 个标签 · 最后更新：2026/8/30 09:57:26
 
 > 本文件自动生成，请勿手改。数据源：[data/bookmarks.json](data/bookmarks.json)
 
 ## 📖 目录
 
-📁 [旧收藏](#folder-1)（19） · [未分类](#folder-2)（10）
+📁 [旧收藏](#folder-1)（19） · [未分类](#folder-2)（11）
 
 [🏷️ 标签](#tags)（24） · [🕘 最近添加](#recent)
 
@@ -33,8 +33,9 @@
 - [用 pmset 管理 macOS 睡眠](https://sspai.com/matrix) `#MacOS` `#系统` — 少数派文章，介绍通过 pmset 命令管理 macOS 睡眠设置，让 Mac 休眠更省电、更可控…
 
 <a id="folder-2"></a>
-## 📁 未分类（10）
+## 📁 未分类（11）
 
+- [README.zh-CN.md · main · xue / chrome-lingo-craft · GitLab](https://gitlab.com/hunter-xue/chrome-lingo-craft/-/blob/main/README.zh-CN.md) 
 - [免费模型汇总 - V2EX](https://v2ex.com/t/1237723) 
 - [‎白纸日历 App - App Store](https://apps.apple.com/cn/app/%E7%99%BD%E7%BA%B8%E6%97%A5%E5%8E%86/id6771203171?l=en-GB&mt=12) 
 - [Telegram: View @TossLabChannel](https://t.me/TossLabChannel/1168) 
@@ -54,6 +55,7 @@
 <a id="recent"></a>
 ## 🕘 最近添加
 
+- [README.zh-CN.md · main · xue / chrome-lingo-craft · GitLab](https://gitlab.com/hunter-xue/chrome-lingo-craft/-/blob/main/README.zh-CN.md)  · 2026-08-30
 - [免费模型汇总 - V2EX](https://v2ex.com/t/1237723)  · 2026-08-30
 - [‎白纸日历 App - App Store](https://apps.apple.com/cn/app/%E7%99%BD%E7%BA%B8%E6%97%A5%E5%8E%86/id6771203171?l=en-GB&mt=12)  · 2026-08-30
 - [Telegram: View @TossLabChannel](https://t.me/TossLabChannel/1168)  · 2026-08-30
@@ -63,7 +65,6 @@
 - [Crisp：免费开源的 macOS 显示器管理工具](https://crispmac.app/zh.html) `#MacOS` `#工具` `#开源` · 2026-08-29
 - [Dashi PPT Skill：AI 生成可编辑演示文稿](https://github.com/chuspeeism/dashi-ppt-skill) `#AiAgent` `#PPT` · 2026-08-29
 - [Ubuntu 26.04.1 LTS 正式发布](https://www.appinn.com/ubuntu-26-04-1-lts/) `#Linux` `#系统` `#新闻` · 2026-08-29
-- [sky-tv：跨平台 TVBox 类视频播放器](https://meta.appinn.net/t/topic/86971) `#tvbox` `#视频` `#工具` · 2026-08-28
 
 ---
-_生成于 2026/8/30 09:55:04_
+_生成于 2026/8/30 09:57:28_
