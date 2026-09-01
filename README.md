@@ -1,12 +1,12 @@
 # 📚 Web Archive 书签目录
 
-> **32** 条书签 · **2** 个文件夹 · **24** 个标签 · 最后更新：2026/8/30 20:20:44
+> **33** 条书签 · **2** 个文件夹 · **24** 个标签 · 最后更新：2026/8/30 21:17:02
 
 > 本文件自动生成，请勿手改。数据源：[data/bookmarks.json](data/bookmarks.json)
 
 ## 📖 目录
 
-📁 [旧收藏](#folder-1)（19） · [未分类](#folder-2)（13）
+📁 [旧收藏](#folder-1)（19） · [未分类](#folder-2)（14）
 
 [🏷️ 标签](#tags)（24） · [🕘 最近添加](#recent)
 
@@ -34,8 +34,9 @@
 - [用 pmset 管理 macOS 睡眠](https://sspai.com/matrix) `#MacOS` `#系统` — 少数派文章，介绍通过 pmset 命令管理 macOS 睡眠设置，让 Mac 休眠更省电、更可控…
 
 <a id="folder-2"></a>
-## 📁 未分类（13）
+## 📁 未分类（14）
 
+- [Lingo — Free macOS Menu Bar Translator \(Offline + AI\)](https://jasonsung0724.github.io/Lingo-ai-translator/) `#工具` `#MacOS`
 - [音乐搜索器 - 多站合一音乐搜索,音乐在线试听](http://music.hi.cn/) `#音乐`
 - [皮卡丘的音乐站 - Pikachu Music](https://charlespikachu.github.io/musicsquare/) `#音乐`
 - [README.zh-CN.md · main · xue / chrome-lingo-craft · GitLab](https://gitlab.com/hunter-xue/chrome-lingo-craft/-/blob/main/README.zh-CN.md) 
@@ -53,11 +54,12 @@
 <a id="tags"></a>
 ## 🏷️ 标签（24）
 
-[`#工具`](https://github.com/Zac-Linley/web_archive/search?q=%E5%B7%A5%E5%85%B7&type=code)（18） · [`#开源`](https://github.com/Zac-Linley/web_archive/search?q=%E5%BC%80%E6%BA%90&type=code)（10） · [`#设计`](https://github.com/Zac-Linley/web_archive/search?q=%E8%AE%BE%E8%AE%A1&type=code)（5） · [`#图标`](https://github.com/Zac-Linley/web_archive/search?q=%E5%9B%BE%E6%A0%87&type=code)（5） · [`#MacOS`](https://github.com/Zac-Linley/web_archive/search?q=MacOS&type=code)（4） · [`#开发`](https://github.com/Zac-Linley/web_archive/search?q=%E5%BC%80%E5%8F%91&type=code)（3） · [`#系统`](https://github.com/Zac-Linley/web_archive/search?q=%E7%B3%BB%E7%BB%9F&type=code)（3） · [`#音乐`](https://github.com/Zac-Linley/web_archive/search?q=%E9%9F%B3%E4%B9%90&type=code)（3） · [`#视频`](https://github.com/Zac-Linley/web_archive/search?q=%E8%A7%86%E9%A2%91&type=code)（2） · [`#智能家居`](https://github.com/Zac-Linley/web_archive/search?q=%E6%99%BA%E8%83%BD%E5%AE%B6%E5%B1%85&type=code)（2） · [`#Linux`](https://github.com/Zac-Linley/web_archive/search?q=Linux&type=code)（2） · [`#PPT`](https://github.com/Zac-Linley/web_archive/search?q=PPT&type=code)（2） · [`#测试`](https://github.com/Zac-Linley/web_archive/search?q=%E6%B5%8B%E8%AF%95&type=code)（1） · [`#监控`](https://github.com/Zac-Linley/web_archive/search?q=%E7%9B%91%E6%8E%A7&type=code)（1） · [`#浏览器`](https://github.com/Zac-Linley/web_archive/search?q=%E6%B5%8F%E8%A7%88%E5%99%A8&type=code)（1） · [`#新闻`](https://github.com/Zac-Linley/web_archive/search?q=%E6%96%B0%E9%97%BB&type=code)（1） · [`#学术`](https://github.com/Zac-Linley/web_archive/search?q=%E5%AD%A6%E6%9C%AF&type=code)（1） · [`#邮件`](https://github.com/Zac-Linley/web_archive/search?q=%E9%82%AE%E4%BB%B6&type=code)（1） · [`#自托管`](https://github.com/Zac-Linley/web_archive/search?q=%E8%87%AA%E6%89%98%E7%AE%A1&type=code)（1） · [`#AI`](https://github.com/Zac-Linley/web_archive/search?q=AI&type=code)（1） · [`#AiAgent`](https://github.com/Zac-Linley/web_archive/search?q=AiAgent&type=code)（1） · [`#Cloudflare`](https://github.com/Zac-Linley/web_archive/search?q=Cloudflare&type=code)（1） · [`#GitHub`](https://github.com/Zac-Linley/web_archive/search?q=GitHub&type=code)（1） · [`#tvbox`](https://github.com/Zac-Linley/web_archive/search?q=tvbox&type=code)（1）
+[`#工具`](https://github.com/Zac-Linley/web_archive/search?q=%E5%B7%A5%E5%85%B7&type=code)（19） · [`#开源`](https://github.com/Zac-Linley/web_archive/search?q=%E5%BC%80%E6%BA%90&type=code)（10） · [`#设计`](https://github.com/Zac-Linley/web_archive/search?q=%E8%AE%BE%E8%AE%A1&type=code)（5） · [`#图标`](https://github.com/Zac-Linley/web_archive/search?q=%E5%9B%BE%E6%A0%87&type=code)（5） · [`#MacOS`](https://github.com/Zac-Linley/web_archive/search?q=MacOS&type=code)（5） · [`#开发`](https://github.com/Zac-Linley/web_archive/search?q=%E5%BC%80%E5%8F%91&type=code)（3） · [`#系统`](https://github.com/Zac-Linley/web_archive/search?q=%E7%B3%BB%E7%BB%9F&type=code)（3） · [`#音乐`](https://github.com/Zac-Linley/web_archive/search?q=%E9%9F%B3%E4%B9%90&type=code)（3） · [`#视频`](https://github.com/Zac-Linley/web_archive/search?q=%E8%A7%86%E9%A2%91&type=code)（2） · [`#智能家居`](https://github.com/Zac-Linley/web_archive/search?q=%E6%99%BA%E8%83%BD%E5%AE%B6%E5%B1%85&type=code)（2） · [`#Linux`](https://github.com/Zac-Linley/web_archive/search?q=Linux&type=code)（2） · [`#PPT`](https://github.com/Zac-Linley/web_archive/search?q=PPT&type=code)（2） · [`#测试`](https://github.com/Zac-Linley/web_archive/search?q=%E6%B5%8B%E8%AF%95&type=code)（1） · [`#监控`](https://github.com/Zac-Linley/web_archive/search?q=%E7%9B%91%E6%8E%A7&type=code)（1） · [`#浏览器`](https://github.com/Zac-Linley/web_archive/search?q=%E6%B5%8F%E8%A7%88%E5%99%A8&type=code)（1） · [`#新闻`](https://github.com/Zac-Linley/web_archive/search?q=%E6%96%B0%E9%97%BB&type=code)（1） · [`#学术`](https://github.com/Zac-Linley/web_archive/search?q=%E5%AD%A6%E6%9C%AF&type=code)（1） · [`#邮件`](https://github.com/Zac-Linley/web_archive/search?q=%E9%82%AE%E4%BB%B6&type=code)（1） · [`#自托管`](https://github.com/Zac-Linley/web_archive/search?q=%E8%87%AA%E6%89%98%E7%AE%A1&type=code)（1） · [`#AI`](https://github.com/Zac-Linley/web_archive/search?q=AI&type=code)（1） · [`#AiAgent`](https://github.com/Zac-Linley/web_archive/search?q=AiAgent&type=code)（1） · [`#Cloudflare`](https://github.com/Zac-Linley/web_archive/search?q=Cloudflare&type=code)（1） · [`#GitHub`](https://github.com/Zac-Linley/web_archive/search?q=GitHub&type=code)（1） · [`#tvbox`](https://github.com/Zac-Linley/web_archive/search?q=tvbox&type=code)（1）
 
 <a id="recent"></a>
 ## 🕘 最近添加
 
+- [Lingo — Free macOS Menu Bar Translator \(Offline + AI\)](https://jasonsung0724.github.io/Lingo-ai-translator/) `#工具` `#MacOS` · 2026-08-30
 - [音乐搜索器 - 多站合一音乐搜索,音乐在线试听](http://music.hi.cn/) `#音乐` · 2026-08-30
 - [皮卡丘的音乐站 - Pikachu Music](https://charlespikachu.github.io/musicsquare/) `#音乐` · 2026-08-30
 - [README.zh-CN.md · main · xue / chrome-lingo-craft · GitLab](https://gitlab.com/hunter-xue/chrome-lingo-craft/-/blob/main/README.zh-CN.md)  · 2026-08-30
@@ -67,7 +69,6 @@
 - [NaiveTab：可视化键盘书签与指令的浏览器新标签页](https://github.com/GXFG/newtab-naivetab) `#浏览器` `#工具` `#开源` · 2026-08-29
 - [Example Domain](https://example.com) `#测试` · 2026-08-29
 - [MacPacker：macOS 压缩包管理器](https://github.com/sarensw/MacPacker) `#MacOS` `#工具` `#开源` · 2026-08-29
-- [Crisp：免费开源的 macOS 显示器管理工具](https://crispmac.app/zh.html) `#MacOS` `#工具` `#开源` · 2026-08-29
 
 ---
-_生成于 2026/8/30 21:17:03_
+_生成于 2026/9/1 10:59:06_
