@@ -1,7 +1,24 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-03T18:13:24.061Z",
+  "updatedAt": "2026-09-03T18:16:25.158Z",
   "items": [
+    {
+      "id": "e878781a-1858-4f94-af08-76f7d60f7dd8",
+      "url": "https://bento.page/",
+      "title": "bento — the office suite that fits in a file",
+      "folder": "",
+      "tags": [
+        "AI",
+        "设计",
+        "PPT"
+      ],
+      "note": "",
+      "createdAt": "2026-09-03T18:16:25.158Z",
+      "updatedAt": "2026-09-03T18:16:25.158Z",
+      "deleted": false,
+      "source": "extension",
+      "snapshot": null
+    },
     {
       "id": "2a0d66b0-7c32-4930-8036-7be25714dd77",
       "url": "https://github.com/citrolabs/ego-lite",
