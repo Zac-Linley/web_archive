@@ -1,7 +1,23 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-03T18:05:46.327Z",
+  "updatedAt": "2026-09-03T18:06:45.504Z",
   "items": [
+    {
+      "id": "fbd083bc-14f8-47ab-a144-e5d65baed001",
+      "url": "https://github.com/massgravel/microsoft-activation-scripts",
+      "title": "massgravel/Microsoft-Activation-Scripts: Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.",
+      "folder": "",
+      "tags": [
+        "工具",
+        "系统"
+      ],
+      "note": "开源Windows和Office激活器具有HWID、Ohook、TSforge和在线KMS激活方法，以及高级故障排除。",
+      "createdAt": "2026-09-03T18:06:45.504Z",
+      "updatedAt": "2026-09-03T18:06:45.504Z",
+      "deleted": false,
+      "source": "extension",
+      "snapshot": null
+    },
     {
       "id": "0d66c091-58ac-479c-b4e8-4ddf2fec02a8",
       "url": "https://github.com/Nigh/ReSoBackup",
