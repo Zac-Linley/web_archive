@@ -1,7 +1,27 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-02T14:55:43.258Z",
+  "updatedAt": "2026-09-03T18:05:46.327Z",
   "items": [
+    {
+      "id": "0d66c091-58ac-479c-b4e8-4ddf2fec02a8",
+      "url": "https://github.com/Nigh/ReSoBackup",
+      "title": "Nigh/ReSoBackup: Reed-Solomon erasure coding backup tool with AES-256 encryption, GUI & CLI | Reed-Solomon 纠删码加密备份工具，支持 GUI 和 CLI",
+      "folder": "",
+      "tags": [
+        "工具",
+        "开源",
+        "备份"
+      ],
+      "note": "纠删码加密备份工具，支持 GUI 和 CLI",
+      "createdAt": "2026-09-03T18:05:46.327Z",
+      "updatedAt": "2026-09-03T18:05:46.327Z",
+      "deleted": false,
+      "source": "extension",
+      "snapshot": {
+        "markdown": "snapshots/0d66c091-58ac-479c-b4e8-4ddf2fec02a8/page.md",
+        "html": "snapshots/0d66c091-58ac-479c-b4e8-4ddf2fec02a8/page.html"
+      }
+    },
     {
       "id": "f5d8aac2-ea68-47c1-915e-907f530bb463",
       "url": "https://post.m.smzdm.com/p/aomxl5gn/",
