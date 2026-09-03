@@ -1,7 +1,24 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-03T18:06:45.504Z",
+  "updatedAt": "2026-09-03T18:13:24.061Z",
   "items": [
+    {
+      "id": "2a0d66b0-7c32-4930-8036-7be25714dd77",
+      "url": "https://github.com/citrolabs/ego-lite",
+      "title": "citrolabs/ego-lite: The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+      "folder": "",
+      "tags": [
+        "工具",
+        "AI",
+        "开源"
+      ],
+      "note": "人工智能代理运行浏览器自动化的最快浏览器，旨在与您的人工智能代理（如Codex或Claude Code）共享您登录的浏览器状态，而不会打扰您。 零成本，零配置。",
+      "createdAt": "2026-09-03T18:13:24.061Z",
+      "updatedAt": "2026-09-03T18:13:24.061Z",
+      "deleted": false,
+      "source": "extension",
+      "snapshot": null
+    },
     {
       "id": "fbd083bc-14f8-47ab-a144-e5d65baed001",
       "url": "https://github.com/massgravel/microsoft-activation-scripts",
