@@ -1,12 +1,11 @@
 # 📚 Web Archive 书签目录
-
-> **38** 条书签 · **2** 个文件夹 · **25** 个标签 · 最后更新：2026/9/3 22:13:24
+> **40** 条书签 · **2** 个文件夹 · **25** 个标签 · 最后更新：2026/9/4 12:44:44
 
 > 本文件自动生成，请勿手改。数据源：[data/bookmarks.json](data/bookmarks.json)
 
 ## 📖 目录
 
-📁 [旧收藏](#folder-1)（19） · [未分类](#folder-2)（19）
+📁 [旧收藏](#folder-1)（19） · [未分类](#folder-2)（21）
 
 [🏷️ 标签](#tags)（25） · [🕘 最近添加](#recent)
 
@@ -34,8 +33,10 @@
 - [用 pmset 管理 macOS 睡眠](https://sspai.com/matrix) `#MacOS` `#系统` — 少数派文章，介绍通过 pmset 命令管理 macOS 睡眠设置，让 Mac 休眠更省电、更可控…
 
 <a id="folder-2"></a>
-## 📁 未分类（19）
+## 📁 未分类（21）
 
+- [Mapy Google](https://maps.app.goo.gl/UAZcfZoWCfFsKw848?g_st=com.apple.shortcuts.Run-Workflow.(null)) 
+- [bento — the office suite that fits in a file](https://bento.page/) `#AI` `#设计` `#PPT`
 - [citrolabs/ego-lite: The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.](https://github.com/citrolabs/ego-lite) `#工具` `#AI` `#开源` — 人工智能代理运行浏览器自动化的最快浏览器，旨在与您的人工智能代理（如Codex或Claude C…
 - [massgravel/Microsoft-Activation-Scripts: Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.](https://github.com/massgravel/microsoft-activation-scripts) `#工具` `#系统` — 开源Windows和Office激活器具有HWID、Ohook、TSforge和在线KMS激活方…
 - [Nigh/ReSoBackup: Reed-Solomon erasure coding backup tool with AES-256 encryption, GUI & CLI \| Reed-Solomon 纠删码加密备份工具，支持 GUI 和 CLI](https://github.com/Nigh/ReSoBackup) `#工具` `#开源` `#备份` — 纠删码加密备份工具，支持 GUI 和 CLI
@@ -59,11 +60,13 @@
 <a id="tags"></a>
 ## 🏷️ 标签（25）
 
-[`#工具`](https://github.com/Zac-Linley/web_archive/search?q=%E5%B7%A5%E5%85%B7&type=code)（22） · [`#开源`](https://github.com/Zac-Linley/web_archive/search?q=%E5%BC%80%E6%BA%90&type=code)（12） · [`#MacOS`](https://github.com/Zac-Linley/web_archive/search?q=MacOS&type=code)（6） · [`#设计`](https://github.com/Zac-Linley/web_archive/search?q=%E8%AE%BE%E8%AE%A1&type=code)（5） · [`#图标`](https://github.com/Zac-Linley/web_archive/search?q=%E5%9B%BE%E6%A0%87&type=code)（5） · [`#系统`](https://github.com/Zac-Linley/web_archive/search?q=%E7%B3%BB%E7%BB%9F&type=code)（4） · [`#开发`](https://github.com/Zac-Linley/web_archive/search?q=%E5%BC%80%E5%8F%91&type=code)（3） · [`#音乐`](https://github.com/Zac-Linley/web_archive/search?q=%E9%9F%B3%E4%B9%90&type=code)（3） · [`#视频`](https://github.com/Zac-Linley/web_archive/search?q=%E8%A7%86%E9%A2%91&type=code)（2） · [`#智能家居`](https://github.com/Zac-Linley/web_archive/search?q=%E6%99%BA%E8%83%BD%E5%AE%B6%E5%B1%85&type=code)（2） · [`#AI`](https://github.com/Zac-Linley/web_archive/search?q=AI&type=code)（2） · [`#Linux`](https://github.com/Zac-Linley/web_archive/search?q=Linux&type=code)（2） · [`#PPT`](https://github.com/Zac-Linley/web_archive/search?q=PPT&type=code)（2） · [`#备份`](https://github.com/Zac-Linley/web_archive/search?q=%E5%A4%87%E4%BB%BD&type=code)（1） · [`#测试`](https://github.com/Zac-Linley/web_archive/search?q=%E6%B5%8B%E8%AF%95&type=code)（1） · [`#监控`](https://github.com/Zac-Linley/web_archive/search?q=%E7%9B%91%E6%8E%A7&type=code)（1） · [`#浏览器`](https://github.com/Zac-Linley/web_archive/search?q=%E6%B5%8F%E8%A7%88%E5%99%A8&type=code)（1） · [`#新闻`](https://github.com/Zac-Linley/web_archive/search?q=%E6%96%B0%E9%97%BB&type=code)（1） · [`#学术`](https://github.com/Zac-Linley/web_archive/search?q=%E5%AD%A6%E6%9C%AF&type=code)（1） · [`#邮件`](https://github.com/Zac-Linley/web_archive/search?q=%E9%82%AE%E4%BB%B6&type=code)（1） · [`#自托管`](https://github.com/Zac-Linley/web_archive/search?q=%E8%87%AA%E6%89%98%E7%AE%A1&type=code)（1） · [`#AiAgent`](https://github.com/Zac-Linley/web_archive/search?q=AiAgent&type=code)（1） · [`#Cloudflare`](https://github.com/Zac-Linley/web_archive/search?q=Cloudflare&type=code)（1） · [`#GitHub`](https://github.com/Zac-Linley/web_archive/search?q=GitHub&type=code)（1） · [`#tvbox`](https://github.com/Zac-Linley/web_archive/search?q=tvbox&type=code)（1）
+[`#工具`](https://github.com/Zac-Linley/web_archive/search?q=%E5%B7%A5%E5%85%B7&type=code)（22） · [`#开源`](https://github.com/Zac-Linley/web_archive/search?q=%E5%BC%80%E6%BA%90&type=code)（12） · [`#设计`](https://github.com/Zac-Linley/web_archive/search?q=%E8%AE%BE%E8%AE%A1&type=code)（6） · [`#MacOS`](https://github.com/Zac-Linley/web_archive/search?q=MacOS&type=code)（6） · [`#图标`](https://github.com/Zac-Linley/web_archive/search?q=%E5%9B%BE%E6%A0%87&type=code)（5） · [`#系统`](https://github.com/Zac-Linley/web_archive/search?q=%E7%B3%BB%E7%BB%9F&type=code)（4） · [`#开发`](https://github.com/Zac-Linley/web_archive/search?q=%E5%BC%80%E5%8F%91&type=code)（3） · [`#音乐`](https://github.com/Zac-Linley/web_archive/search?q=%E9%9F%B3%E4%B9%90&type=code)（3） · [`#AI`](https://github.com/Zac-Linley/web_archive/search?q=AI&type=code)（3） · [`#PPT`](https://github.com/Zac-Linley/web_archive/search?q=PPT&type=code)（3） · [`#视频`](https://github.com/Zac-Linley/web_archive/search?q=%E8%A7%86%E9%A2%91&type=code)（2） · [`#智能家居`](https://github.com/Zac-Linley/web_archive/search?q=%E6%99%BA%E8%83%BD%E5%AE%B6%E5%B1%85&type=code)（2） · [`#Linux`](https://github.com/Zac-Linley/web_archive/search?q=Linux&type=code)（2） · [`#备份`](https://github.com/Zac-Linley/web_archive/search?q=%E5%A4%87%E4%BB%BD&type=code)（1） · [`#测试`](https://github.com/Zac-Linley/web_archive/search?q=%E6%B5%8B%E8%AF%95&type=code)（1） · [`#监控`](https://github.com/Zac-Linley/web_archive/search?q=%E7%9B%91%E6%8E%A7&type=code)（1） · [`#浏览器`](https://github.com/Zac-Linley/web_archive/search?q=%E6%B5%8F%E8%A7%88%E5%99%A8&type=code)（1） · [`#新闻`](https://github.com/Zac-Linley/web_archive/search?q=%E6%96%B0%E9%97%BB&type=code)（1） · [`#学术`](https://github.com/Zac-Linley/web_archive/search?q=%E5%AD%A6%E6%9C%AF&type=code)（1） · [`#邮件`](https://github.com/Zac-Linley/web_archive/search?q=%E9%82%AE%E4%BB%B6&type=code)（1） · [`#自托管`](https://github.com/Zac-Linley/web_archive/search?q=%E8%87%AA%E6%89%98%E7%AE%A1&type=code)（1） · [`#AiAgent`](https://github.com/Zac-Linley/web_archive/search?q=AiAgent&type=code)（1） · [`#Cloudflare`](https://github.com/Zac-Linley/web_archive/search?q=Cloudflare&type=code)（1） · [`#GitHub`](https://github.com/Zac-Linley/web_archive/search?q=GitHub&type=code)（1） · [`#tvbox`](https://github.com/Zac-Linley/web_archive/search?q=tvbox&type=code)（1）
 
 <a id="recent"></a>
 ## 🕘 最近添加
 
+- [Mapy Google](https://maps.app.goo.gl/UAZcfZoWCfFsKw848?g_st=com.apple.shortcuts.Run-Workflow.(null))  · 2026-09-04
+- [bento — the office suite that fits in a file](https://bento.page/) `#AI` `#设计` `#PPT` · 2026-09-03
 - [citrolabs/ego-lite: The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.](https://github.com/citrolabs/ego-lite) `#工具` `#AI` `#开源` · 2026-09-03
 - [massgravel/Microsoft-Activation-Scripts: Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.](https://github.com/massgravel/microsoft-activation-scripts) `#工具` `#系统` · 2026-09-03
 - [Nigh/ReSoBackup: Reed-Solomon erasure coding backup tool with AES-256 encryption, GUI & CLI \| Reed-Solomon 纠删码加密备份工具，支持 GUI 和 CLI](https://github.com/Nigh/ReSoBackup) `#工具` `#开源` `#备份` · 2026-09-03
@@ -72,8 +75,6 @@
 - [Lingo — Free macOS Menu Bar Translator \(Offline + AI\)](https://jasonsung0724.github.io/Lingo-ai-translator/) `#工具` `#MacOS` · 2026-08-30
 - [音乐搜索器 - 多站合一音乐搜索,音乐在线试听](http://music.hi.cn/) `#音乐` · 2026-08-30
 - [皮卡丘的音乐站 - Pikachu Music](https://charlespikachu.github.io/musicsquare/) `#音乐` · 2026-08-30
-- [README.zh-CN.md · main · xue / chrome-lingo-craft · GitLab](https://gitlab.com/hunter-xue/chrome-lingo-craft/-/blob/main/README.zh-CN.md)  · 2026-08-30
-- [免费模型汇总 - V2EX](https://v2ex.com/t/1237723)  · 2026-08-30
 
 ---
-_生成于 2026/9/3 22:16:26_
+_生成于 2026/9/4 12:44:46_
