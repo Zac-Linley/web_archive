@@ -1,7 +1,20 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-03T18:16:25.158Z",
+  "updatedAt": "2026-09-04T12:44:44.651Z",
   "items": [
+    {
+      "id": "a0f20eec-7d9c-4f9b-bbc6-e4cec19c7f75",
+      "url": "https://maps.app.goo.gl/UAZcfZoWCfFsKw848?g_st=com.apple.shortcuts.Run-Workflow.(null)",
+      "title": "Mapy Google",
+      "folder": "",
+      "tags": [],
+      "note": "",
+      "createdAt": "2026-09-04T12:44:44.651Z",
+      "updatedAt": "2026-09-04T12:44:44.651Z",
+      "deleted": false,
+      "source": "ios-shortcut",
+      "snapshot": null
+    },
     {
       "id": "e878781a-1858-4f94-af08-76f7d60f7dd8",
       "url": "https://bento.page/",
