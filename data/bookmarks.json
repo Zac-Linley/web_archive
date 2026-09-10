@@ -1,7 +1,23 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-09T19:22:55.404Z",
+  "updatedAt": "2026-09-10T06:19:56.089Z",
   "items": [
+    {
+      "id": "d4799494-771a-4753-95a5-31fb042f8f3e",
+      "url": "https://www.opendesk.eu/en",
+      "title": "The office and collaboration suite for public administration | openDesk",
+      "folder": "",
+      "tags": [
+        "工具",
+        "开源"
+      ],
+      "note": "",
+      "createdAt": "2026-09-10T06:19:56.089Z",
+      "updatedAt": "2026-09-10T06:19:56.089Z",
+      "deleted": false,
+      "source": "extension",
+      "snapshot": null
+    },
     {
       "id": "3794913c-21e7-4886-a1c1-285c17b589cf",
       "url": "https://markdownpreview.app/",
