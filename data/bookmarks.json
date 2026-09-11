@@ -1,7 +1,28 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-10T06:19:56.089Z",
+  "updatedAt": "2026-09-11T06:06:32.674Z",
   "items": [
+    {
+      "id": "863f3ba7-2217-427c-bbcf-c2f50c7e3a7d",
+      "url": "https://github.com/zsuroy/ctty/blob/master/README_CN.md",
+      "title": "ctty/README_CN.md at master · zsuroy/ctty",
+      "folder": "",
+      "tags": [
+        "开源",
+        "工具",
+        "ssh",
+        "TUI"
+      ],
+      "note": "ctty 是一个快速、原生的终端工具，用于管理你的所有连接 —— SSH 主机、串口设备、Telnet 端点、SFTP 文件传输 —— 无需 Electron 的开销。使用 Go 编写，拥有直观的 TUI 界面，将 Tabby 等图形化连接管理器的便利性带到终端中，零臃肿",
+      "createdAt": "2026-09-11T06:06:32.674Z",
+      "updatedAt": "2026-09-11T06:06:32.674Z",
+      "deleted": false,
+      "source": "extension",
+      "snapshot": {
+        "markdown": "snapshots/863f3ba7-2217-427c-bbcf-c2f50c7e3a7d/page.md",
+        "html": "snapshots/863f3ba7-2217-427c-bbcf-c2f50c7e3a7d/page.html"
+      }
+    },
     {
       "id": "d4799494-771a-4753-95a5-31fb042f8f3e",
       "url": "https://www.opendesk.eu/en",
