@@ -1,12 +1,12 @@
 # 📚 Web Archive 书签目录
 
-> **41** 条书签 · **2** 个文件夹 · **25** 个标签 · 最后更新：2026/9/9 23:22:55
+> **42** 条书签 · **2** 个文件夹 · **25** 个标签 · 最后更新：2026/9/10 10:19:56
 
 > 本文件自动生成，请勿手改。数据源：[data/bookmarks.json](data/bookmarks.json)
 
 ## 📖 目录
 
-📁 [旧收藏](#folder-1)（19） · [未分类](#folder-2)（22）
+📁 [旧收藏](#folder-1)（19） · [未分类](#folder-2)（23）
 
 [🏷️ 标签](#tags)（25） · [🕘 最近添加](#recent)
 
@@ -34,8 +34,9 @@
 - [用 pmset 管理 macOS 睡眠](https://sspai.com/matrix) `#MacOS` `#系统` — 少数派文章，介绍通过 pmset 命令管理 macOS 睡眠设置，让 Mac 休眠更省电、更可控…
 
 <a id="folder-2"></a>
-## 📁 未分类（22）
+## 📁 未分类（23）
 
+- [The office and collaboration suite for public administration \| openDesk](https://www.opendesk.eu/en) `#工具` `#开源`
 - [Markdown Preview — Read .md files on your Mac](https://markdownpreview.app/) 
 - [Mapy Google](https://maps.app.goo.gl/UAZcfZoWCfFsKw848?g_st=com.apple.shortcuts.Run-Workflow.(null)) 
 - [bento — the office suite that fits in a file](https://bento.page/) `#AI` `#设计` `#PPT`
@@ -62,11 +63,12 @@
 <a id="tags"></a>
 ## 🏷️ 标签（25）
 
-[`#工具`](https://github.com/Zac-Linley/web_archive/search?q=%E5%B7%A5%E5%85%B7&type=code)（22） · [`#开源`](https://github.com/Zac-Linley/web_archive/search?q=%E5%BC%80%E6%BA%90&type=code)（12） · [`#设计`](https://github.com/Zac-Linley/web_archive/search?q=%E8%AE%BE%E8%AE%A1&type=code)（6） · [`#MacOS`](https://github.com/Zac-Linley/web_archive/search?q=MacOS&type=code)（6） · [`#图标`](https://github.com/Zac-Linley/web_archive/search?q=%E5%9B%BE%E6%A0%87&type=code)（5） · [`#系统`](https://github.com/Zac-Linley/web_archive/search?q=%E7%B3%BB%E7%BB%9F&type=code)（4） · [`#开发`](https://github.com/Zac-Linley/web_archive/search?q=%E5%BC%80%E5%8F%91&type=code)（3） · [`#音乐`](https://github.com/Zac-Linley/web_archive/search?q=%E9%9F%B3%E4%B9%90&type=code)（3） · [`#AI`](https://github.com/Zac-Linley/web_archive/search?q=AI&type=code)（3） · [`#PPT`](https://github.com/Zac-Linley/web_archive/search?q=PPT&type=code)（3） · [`#视频`](https://github.com/Zac-Linley/web_archive/search?q=%E8%A7%86%E9%A2%91&type=code)（2） · [`#智能家居`](https://github.com/Zac-Linley/web_archive/search?q=%E6%99%BA%E8%83%BD%E5%AE%B6%E5%B1%85&type=code)（2） · [`#Linux`](https://github.com/Zac-Linley/web_archive/search?q=Linux&type=code)（2） · [`#备份`](https://github.com/Zac-Linley/web_archive/search?q=%E5%A4%87%E4%BB%BD&type=code)（1） · [`#测试`](https://github.com/Zac-Linley/web_archive/search?q=%E6%B5%8B%E8%AF%95&type=code)（1） · [`#监控`](https://github.com/Zac-Linley/web_archive/search?q=%E7%9B%91%E6%8E%A7&type=code)（1） · [`#浏览器`](https://github.com/Zac-Linley/web_archive/search?q=%E6%B5%8F%E8%A7%88%E5%99%A8&type=code)（1） · [`#新闻`](https://github.com/Zac-Linley/web_archive/search?q=%E6%96%B0%E9%97%BB&type=code)（1） · [`#学术`](https://github.com/Zac-Linley/web_archive/search?q=%E5%AD%A6%E6%9C%AF&type=code)（1） · [`#邮件`](https://github.com/Zac-Linley/web_archive/search?q=%E9%82%AE%E4%BB%B6&type=code)（1） · [`#自托管`](https://github.com/Zac-Linley/web_archive/search?q=%E8%87%AA%E6%89%98%E7%AE%A1&type=code)（1） · [`#AiAgent`](https://github.com/Zac-Linley/web_archive/search?q=AiAgent&type=code)（1） · [`#Cloudflare`](https://github.com/Zac-Linley/web_archive/search?q=Cloudflare&type=code)（1） · [`#GitHub`](https://github.com/Zac-Linley/web_archive/search?q=GitHub&type=code)（1） · [`#tvbox`](https://github.com/Zac-Linley/web_archive/search?q=tvbox&type=code)（1）
+[`#工具`](https://github.com/Zac-Linley/web_archive/search?q=%E5%B7%A5%E5%85%B7&type=code)（23） · [`#开源`](https://github.com/Zac-Linley/web_archive/search?q=%E5%BC%80%E6%BA%90&type=code)（13） · [`#设计`](https://github.com/Zac-Linley/web_archive/search?q=%E8%AE%BE%E8%AE%A1&type=code)（6） · [`#MacOS`](https://github.com/Zac-Linley/web_archive/search?q=MacOS&type=code)（6） · [`#图标`](https://github.com/Zac-Linley/web_archive/search?q=%E5%9B%BE%E6%A0%87&type=code)（5） · [`#系统`](https://github.com/Zac-Linley/web_archive/search?q=%E7%B3%BB%E7%BB%9F&type=code)（4） · [`#开发`](https://github.com/Zac-Linley/web_archive/search?q=%E5%BC%80%E5%8F%91&type=code)（3） · [`#音乐`](https://github.com/Zac-Linley/web_archive/search?q=%E9%9F%B3%E4%B9%90&type=code)（3） · [`#AI`](https://github.com/Zac-Linley/web_archive/search?q=AI&type=code)（3） · [`#PPT`](https://github.com/Zac-Linley/web_archive/search?q=PPT&type=code)（3） · [`#视频`](https://github.com/Zac-Linley/web_archive/search?q=%E8%A7%86%E9%A2%91&type=code)（2） · [`#智能家居`](https://github.com/Zac-Linley/web_archive/search?q=%E6%99%BA%E8%83%BD%E5%AE%B6%E5%B1%85&type=code)（2） · [`#Linux`](https://github.com/Zac-Linley/web_archive/search?q=Linux&type=code)（2） · [`#备份`](https://github.com/Zac-Linley/web_archive/search?q=%E5%A4%87%E4%BB%BD&type=code)（1） · [`#测试`](https://github.com/Zac-Linley/web_archive/search?q=%E6%B5%8B%E8%AF%95&type=code)（1） · [`#监控`](https://github.com/Zac-Linley/web_archive/search?q=%E7%9B%91%E6%8E%A7&type=code)（1） · [`#浏览器`](https://github.com/Zac-Linley/web_archive/search?q=%E6%B5%8F%E8%A7%88%E5%99%A8&type=code)（1） · [`#新闻`](https://github.com/Zac-Linley/web_archive/search?q=%E6%96%B0%E9%97%BB&type=code)（1） · [`#学术`](https://github.com/Zac-Linley/web_archive/search?q=%E5%AD%A6%E6%9C%AF&type=code)（1） · [`#邮件`](https://github.com/Zac-Linley/web_archive/search?q=%E9%82%AE%E4%BB%B6&type=code)（1） · [`#自托管`](https://github.com/Zac-Linley/web_archive/search?q=%E8%87%AA%E6%89%98%E7%AE%A1&type=code)（1） · [`#AiAgent`](https://github.com/Zac-Linley/web_archive/search?q=AiAgent&type=code)（1） · [`#Cloudflare`](https://github.com/Zac-Linley/web_archive/search?q=Cloudflare&type=code)（1） · [`#GitHub`](https://github.com/Zac-Linley/web_archive/search?q=GitHub&type=code)（1） · [`#tvbox`](https://github.com/Zac-Linley/web_archive/search?q=tvbox&type=code)（1）
 
 <a id="recent"></a>
 ## 🕘 最近添加
 
+- [The office and collaboration suite for public administration \| openDesk](https://www.opendesk.eu/en) `#工具` `#开源` · 2026-09-10
 - [Markdown Preview — Read .md files on your Mac](https://markdownpreview.app/)  · 2026-09-09
 - [Mapy Google](https://maps.app.goo.gl/UAZcfZoWCfFsKw848?g_st=com.apple.shortcuts.Run-Workflow.(null))  · 2026-09-04
 - [bento — the office suite that fits in a file](https://bento.page/) `#AI` `#设计` `#PPT` · 2026-09-03
@@ -76,7 +78,6 @@
 - [拓竹大陆版便宜好几千，但先别急着海运：这笔锁区账，算完再决定运还是当地买\_打印机\_什么值得买](https://post.m.smzdm.com/p/aomxl5gn/)  · 2026-09-02
 - [celldock/celldock-for-mac: Use cellular network, SMS, and calls on your Mac.](https://github.com/celldock/celldock-for-mac) `#MacOS` · 2026-09-01
 - [Lingo — Free macOS Menu Bar Translator \(Offline + AI\)](https://jasonsung0724.github.io/Lingo-ai-translator/) `#工具` `#MacOS` · 2026-08-30
-- [音乐搜索器 - 多站合一音乐搜索,音乐在线试听](http://music.hi.cn/) `#音乐` · 2026-08-30
 
 ---
-_生成于 2026/9/10 10:19:57_
+_生成于 2026/9/11 10:06:38_
