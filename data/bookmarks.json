@@ -1,7 +1,25 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-29T15:47:28.224Z",
+  "updatedAt": "2026-10-09T13:02:32.010Z",
   "items": [
+    {
+      "id": "3f9036a3-c527-4991-8279-93d0e9aab2a5",
+      "url": "https://github.com/ArkGravity/burrow",
+      "title": "ArkGravity/burrow: Lightweight, self-hosted OIDC identity provider for small teams. Go + React, password + mandatory TOTP, RBAC, and shared SSO. MIT licensed.",
+      "folder": "",
+      "tags": [
+        "开源"
+      ],
+      "note": "面向小团队和自托管的轻量 OIDC 单点登录服务，使用密码和验证器登录，通过 OpenID Connect 接入支持该协议的应用。",
+      "createdAt": "2026-10-09T13:02:32.009Z",
+      "updatedAt": "2026-10-09T13:02:32.010Z",
+      "deleted": false,
+      "source": "extension",
+      "snapshot": {
+        "markdown": "snapshots/3f9036a3-c527-4991-8279-93d0e9aab2a5/page.md",
+        "html": "snapshots/3f9036a3-c527-4991-8279-93d0e9aab2a5/page.html"
+      }
+    },
     {
       "id": "3f12fbca-7cd1-4e5e-a4a9-db2aa96b2a4a",
       "url": "http://www.12315.cn\nhttp://wsxf.gjxfj.gov.cn\nmailto:CC@123pan.com\nmailto:CC@123pan.com\nhttp://www.12315.cn\nmailto:CC@123pan.com\nhttp://wsxf.gjxfj.gov.cn\nhttp://www.12315.cn\nhttp://wsxf.gjxfj.gov.cn\nhttp://yhssglxt.miit.gov.cn\nhttp://hlwtsxt.miit.gov.cn\nhttp://tousu.www.gov.cn/dc\nhttp://www.gov.cn/hudong/xzlwh/\nhttp://tousu.sina.com.cn\nhttp://www.12377.cn\nmailto:CC@123pan.com\nhttp://web.archive.org\nhttps://www.123pan.com/member%60\nhttps://statics.123957.com/static/app_pro/permanentVip.html%60\nhttps://www.123pan.com/UserAgreement/%60\nhttps://www.123pan.com/memberagreement%60\nmailto:CC@123pan.com\nmailto:CC@123pan.com\nmailto:CC@123pan.com\nhttp://www.123pan.com\nhttp://flk.npc.gov.cn",
