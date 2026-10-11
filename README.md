@@ -1,11 +1,11 @@
 # 📚 Web Archive 书签目录
-> **51** 条书签 · **2** 个文件夹 · **27** 个标签 · 最后更新：2026/10/11 16:21:30
+> **52** 条书签 · **2** 个文件夹 · **27** 个标签 · 最后更新：2026/10/11 16:38:46
 
 > 本文件自动生成，请勿手改。数据源：[data/bookmarks.json](data/bookmarks.json)
 
 ## 📖 目录
 
-📁 [旧收藏](#folder-1)（19） · [未分类](#folder-2)（32）
+📁 [旧收藏](#folder-1)（19） · [未分类](#folder-2)（33）
 
 [🏷️ 标签](#tags)（27） · [🕘 最近添加](#recent)
 
@@ -33,8 +33,9 @@
 - [用 pmset 管理 macOS 睡眠](https://sspai.com/matrix) `#MacOS` `#系统` — 少数派文章，介绍通过 pmset 命令管理 macOS 睡眠设置，让 Mac 休眠更省电、更可控…
 
 <a id="folder-2"></a>
-## 📁 未分类（32）
+## 📁 未分类（33）
 
+- [FluxDown/README.zh-CN.md at main · zerx-lab/FluxDown · GitHub](https://github.com/zerx-lab/FluxDown/blob/main/README.zh-CN.md) 
 - [PMail/README\_CN.md at master · Jinnrry/PMail · GitHub](https://github.com/Jinnrry/PMail/blob/master/README_CN.md) 
 - [【开发者自荐】Skills Hub，从网页合集安装 Skills，支持多工具管理和多设备同步 - 发现频道 - 小众软件官方论坛](https://meta.appinn.net/t/topic/93321) 
 - [【截图录屏】Shotnix：开源免费的 Mac 截图录屏工具，停止录制时视频已经剪好 - 发现频道 - 小众软件官方论坛](https://meta.appinn.net/t/topic/93323) 
@@ -126,6 +127,7 @@ http://flk.npc.gov.cn)
 <a id="recent"></a>
 ## 🕘 最近添加
 
+- [FluxDown/README.zh-CN.md at main · zerx-lab/FluxDown · GitHub](https://github.com/zerx-lab/FluxDown/blob/main/README.zh-CN.md)  · 2026-10-11
 - [PMail/README\_CN.md at master · Jinnrry/PMail · GitHub](https://github.com/Jinnrry/PMail/blob/master/README_CN.md)  · 2026-10-11
 - [【开发者自荐】Skills Hub，从网页合集安装 Skills，支持多工具管理和多设备同步 - 发现频道 - 小众软件官方论坛](https://meta.appinn.net/t/topic/93321)  · 2026-10-11
 - [【截图录屏】Shotnix：开源免费的 Mac 截图录屏工具，停止录制时视频已经剪好 - 发现频道 - 小众软件官方论坛](https://meta.appinn.net/t/topic/93323)  · 2026-10-11
@@ -185,7 +187,6 @@ mailto:CC@123pan.com
 http://www.123pan.com
 http://flk.npc.gov.cn)  · 2026-09-29
 - [ctty/README\_CN.md at master · zsuroy/ctty](https://github.com/zsuroy/ctty/blob/master/README_CN.md) `#开源` `#工具` `#ssh` `#TUI` · 2026-09-11
-- [The office and collaboration suite for public administration \| openDesk](https://www.opendesk.eu/en) `#工具` `#开源` · 2026-09-10
 
 ---
-_生成于 2026/10/11 16:21:32_
+_生成于 2026/10/11 16:38:47_
