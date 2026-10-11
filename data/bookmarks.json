@@ -1,7 +1,20 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-09T13:02:32.010Z",
+  "updatedAt": "2026-10-11T08:11:41.522Z",
   "items": [
+    {
+      "id": "f0831a84-d7a0-4aab-89f8-0fa633d3b63b",
+      "url": "https://skywt.cn/blog/apple-typography-details",
+      "title": "Apple 官网排版细节鉴赏 - 博客",
+      "folder": "",
+      "tags": [],
+      "note": "",
+      "createdAt": "2026-10-11T08:11:41.522Z",
+      "updatedAt": "2026-10-11T08:11:41.522Z",
+      "deleted": false,
+      "source": "ios-shortcut",
+      "snapshot": null
+    },
     {
       "id": "3f9036a3-c527-4991-8279-93d0e9aab2a5",
       "url": "https://github.com/ArkGravity/burrow",
