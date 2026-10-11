@@ -1,7 +1,20 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-11T16:11:11.324Z",
+  "updatedAt": "2026-10-11T16:15:20.875Z",
   "items": [
+    {
+      "id": "6ed5b83d-4b21-4d5b-b25a-4c31b8042c90",
+      "url": "https://meta.appinn.net/t/topic/93323",
+      "title": "【截图录屏】Shotnix：开源免费的 Mac 截图录屏工具，停止录制时视频已经剪好 - 发现频道 - 小众软件官方论坛",
+      "folder": "",
+      "tags": [],
+      "note": "",
+      "createdAt": "2026-10-11T16:15:20.875Z",
+      "updatedAt": "2026-10-11T16:15:20.875Z",
+      "deleted": false,
+      "source": "ios-shortcut",
+      "snapshot": null
+    },
     {
       "id": "460b6fd7-8af7-4188-9ccb-ec97d56c559f",
       "url": "https://github.com/getpaseo/paseo/blob/main/README.zh-CN.md",
