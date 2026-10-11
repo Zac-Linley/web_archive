@@ -1,7 +1,20 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-11T08:11:41.522Z",
+  "updatedAt": "2026-10-11T08:21:37.902Z",
   "items": [
+    {
+      "id": "d47e8f59-a302-4e99-bdef-86ae167af7dd",
+      "url": "https://www.appinn.com/iterm2-buddy-self-hosted-relay-server/",
+      "title": "为 iTerm2 Buddy 自托管中继服务器，加速手机连接 Mac 终端速度 - 小众软件",
+      "folder": "",
+      "tags": [],
+      "note": "",
+      "createdAt": "2026-10-11T08:21:37.902Z",
+      "updatedAt": "2026-10-11T08:21:37.902Z",
+      "deleted": false,
+      "source": "ios-shortcut",
+      "snapshot": null
+    },
     {
       "id": "f0831a84-d7a0-4aab-89f8-0fa633d3b63b",
       "url": "https://skywt.cn/blog/apple-typography-details",
