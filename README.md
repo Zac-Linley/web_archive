@@ -1,11 +1,11 @@
 # 📚 Web Archive 书签目录
-> **46** 条书签 · **2** 个文件夹 · **27** 个标签 · 最后更新：2026/10/11 08:11:41
+> **47** 条书签 · **2** 个文件夹 · **27** 个标签 · 最后更新：2026/10/11 08:21:37
 
 > 本文件自动生成，请勿手改。数据源：[data/bookmarks.json](data/bookmarks.json)
 
 ## 📖 目录
 
-📁 [旧收藏](#folder-1)（19） · [未分类](#folder-2)（27）
+📁 [旧收藏](#folder-1)（19） · [未分类](#folder-2)（28）
 
 [🏷️ 标签](#tags)（27） · [🕘 最近添加](#recent)
 
@@ -33,8 +33,9 @@
 - [用 pmset 管理 macOS 睡眠](https://sspai.com/matrix) `#MacOS` `#系统` — 少数派文章，介绍通过 pmset 命令管理 macOS 睡眠设置，让 Mac 休眠更省电、更可控…
 
 <a id="folder-2"></a>
-## 📁 未分类（27）
+## 📁 未分类（28）
 
+- [为 iTerm2 Buddy 自托管中继服务器，加速手机连接 Mac 终端速度 - 小众软件](https://www.appinn.com/iterm2-buddy-self-hosted-relay-server/) 
 - [Apple 官网排版细节鉴赏 - 博客](https://skywt.cn/blog/apple-typography-details) 
 - [ArkGravity/burrow: Lightweight, self-hosted OIDC identity provider for small teams. Go + React, password + mandatory TOTP, RBAC, and shared SSO. MIT licensed.](https://github.com/ArkGravity/burrow) `#开源` — 面向小团队和自托管的轻量 OIDC 单点登录服务，使用密码和验证器登录，通过 OpenID Co…
 - [http://www.12315.cn
@@ -121,6 +122,7 @@ http://flk.npc.gov.cn)
 <a id="recent"></a>
 ## 🕘 最近添加
 
+- [为 iTerm2 Buddy 自托管中继服务器，加速手机连接 Mac 终端速度 - 小众软件](https://www.appinn.com/iterm2-buddy-self-hosted-relay-server/)  · 2026-10-11
 - [Apple 官网排版细节鉴赏 - 博客](https://skywt.cn/blog/apple-typography-details)  · 2026-10-11
 - [ArkGravity/burrow: Lightweight, self-hosted OIDC identity provider for small teams. Go + React, password + mandatory TOTP, RBAC, and shared SSO. MIT licensed.](https://github.com/ArkGravity/burrow) `#开源` · 2026-10-09
 - [http://www.12315.cn
@@ -180,7 +182,6 @@ http://flk.npc.gov.cn)  · 2026-09-29
 - [Mapy Google](https://maps.app.goo.gl/UAZcfZoWCfFsKw848?g_st=com.apple.shortcuts.Run-Workflow.(null))  · 2026-09-04
 - [bento — the office suite that fits in a file](https://bento.page/) `#AI` `#设计` `#PPT` · 2026-09-03
 - [citrolabs/ego-lite: The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.](https://github.com/citrolabs/ego-lite) `#工具` `#AI` `#开源` · 2026-09-03
-- [massgravel/Microsoft-Activation-Scripts: Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.](https://github.com/massgravel/microsoft-activation-scripts) `#工具` `#系统` · 2026-09-03
 
 ---
-_生成于 2026/10/11 08:11:43_
+_生成于 2026/10/11 08:21:39_
