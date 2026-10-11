@@ -1,7 +1,20 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-11T16:15:33.489Z",
+  "updatedAt": "2026-10-11T16:21:30.628Z",
   "items": [
+    {
+      "id": "1ce7a525-9155-48d7-b7c6-81ec96d0fe5a",
+      "url": "https://github.com/Jinnrry/PMail/blob/master/README_CN.md",
+      "title": "PMail/README_CN.md at master · Jinnrry/PMail · GitHub",
+      "folder": "",
+      "tags": [],
+      "note": "",
+      "createdAt": "2026-10-11T16:21:30.628Z",
+      "updatedAt": "2026-10-11T16:21:30.628Z",
+      "deleted": false,
+      "source": "ios-shortcut",
+      "snapshot": null
+    },
     {
       "id": "83906faa-a5a5-4970-8aa2-f71222cbcbb7",
       "url": "https://meta.appinn.net/t/topic/93321",
