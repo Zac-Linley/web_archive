@@ -1,7 +1,20 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-11T08:21:37.902Z",
+  "updatedAt": "2026-10-11T16:11:11.324Z",
   "items": [
+    {
+      "id": "460b6fd7-8af7-4188-9ccb-ec97d56c559f",
+      "url": "https://github.com/getpaseo/paseo/blob/main/README.zh-CN.md",
+      "title": "paseo/README.zh-CN.md at main · getpaseo/paseo · GitHub",
+      "folder": "",
+      "tags": [],
+      "note": "",
+      "createdAt": "2026-10-11T16:11:11.324Z",
+      "updatedAt": "2026-10-11T16:11:11.324Z",
+      "deleted": false,
+      "source": "ios-shortcut",
+      "snapshot": null
+    },
     {
       "id": "d47e8f59-a302-4e99-bdef-86ae167af7dd",
       "url": "https://www.appinn.com/iterm2-buddy-self-hosted-relay-server/",
