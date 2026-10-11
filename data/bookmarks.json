@@ -1,7 +1,20 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-11T16:21:30.628Z",
+  "updatedAt": "2026-10-11T16:38:46.026Z",
   "items": [
+    {
+      "id": "b7f19bae-7f25-4f7d-b99f-6a4b43b8c6ce",
+      "url": "https://github.com/zerx-lab/FluxDown/blob/main/README.zh-CN.md",
+      "title": "FluxDown/README.zh-CN.md at main · zerx-lab/FluxDown · GitHub",
+      "folder": "",
+      "tags": [],
+      "note": "",
+      "createdAt": "2026-10-11T16:38:46.026Z",
+      "updatedAt": "2026-10-11T16:38:46.026Z",
+      "deleted": false,
+      "source": "ios-shortcut",
+      "snapshot": null
+    },
     {
       "id": "1ce7a525-9155-48d7-b7c6-81ec96d0fe5a",
       "url": "https://github.com/Jinnrry/PMail/blob/master/README_CN.md",
