@@ -1,11 +1,11 @@
 # 📚 Web Archive 书签目录
-> **53** 条书签 · **2** 个文件夹 · **27** 个标签 · 最后更新：2026/10/13 16:12:15
+> **54** 条书签 · **2** 个文件夹 · **27** 个标签 · 最后更新：2026/10/13 16:12:45
 
 > 本文件自动生成，请勿手改。数据源：[data/bookmarks.json](data/bookmarks.json)
 
 ## 📖 目录
 
-📁 [旧收藏](#folder-1)（19） · [未分类](#folder-2)（34）
+📁 [旧收藏](#folder-1)（19） · [未分类](#folder-2)（35）
 
 [🏷️ 标签](#tags)（27） · [🕘 最近添加](#recent)
 
@@ -33,8 +33,9 @@
 - [用 pmset 管理 macOS 睡眠](https://sspai.com/matrix) `#MacOS` `#系统` — 少数派文章，介绍通过 pmset 命令管理 macOS 睡眠设置，让 Mac 休眠更省电、更可控…
 
 <a id="folder-2"></a>
-## 📁 未分类（34）
+## 📁 未分类（35）
 
+- [【开源自荐】ATBClone -- 为任意macOS应用创建分身的工具 - 发现频道 - 小众软件官方论坛](https://meta.appinn.net/t/topic/93491) 
 - [reinstall：操作系统自己重装自己？这个开源项目有点神奇 - 小众软件](https://www.appinn.com/bin456789-reinstall/) 
 - [FluxDown/README.zh-CN.md at main · zerx-lab/FluxDown · GitHub](https://github.com/zerx-lab/FluxDown/blob/main/README.zh-CN.md) 
 - [PMail/README\_CN.md at master · Jinnrry/PMail · GitHub](https://github.com/Jinnrry/PMail/blob/master/README_CN.md) 
@@ -128,6 +129,7 @@ http://flk.npc.gov.cn)
 <a id="recent"></a>
 ## 🕘 最近添加
 
+- [【开源自荐】ATBClone -- 为任意macOS应用创建分身的工具 - 发现频道 - 小众软件官方论坛](https://meta.appinn.net/t/topic/93491)  · 2026-10-13
 - [reinstall：操作系统自己重装自己？这个开源项目有点神奇 - 小众软件](https://www.appinn.com/bin456789-reinstall/)  · 2026-10-13
 - [FluxDown/README.zh-CN.md at main · zerx-lab/FluxDown · GitHub](https://github.com/zerx-lab/FluxDown/blob/main/README.zh-CN.md)  · 2026-10-11
 - [PMail/README\_CN.md at master · Jinnrry/PMail · GitHub](https://github.com/Jinnrry/PMail/blob/master/README_CN.md)  · 2026-10-11
@@ -137,57 +139,6 @@ http://flk.npc.gov.cn)
 - [为 iTerm2 Buddy 自托管中继服务器，加速手机连接 Mac 终端速度 - 小众软件](https://www.appinn.com/iterm2-buddy-self-hosted-relay-server/)  · 2026-10-11
 - [Apple 官网排版细节鉴赏 - 博客](https://skywt.cn/blog/apple-typography-details)  · 2026-10-11
 - [ArkGravity/burrow: Lightweight, self-hosted OIDC identity provider for small teams. Go + React, password + mandatory TOTP, RBAC, and shared SSO. MIT licensed.](https://github.com/ArkGravity/burrow) `#开源` · 2026-10-09
-- [http://www.12315.cn
-http://wsxf.gjxfj.gov.cn
-mailto:CC@123pan.com
-mailto:CC@123pan.com
-http://www.12315.cn
-mailto:CC@123pan.com
-http://wsxf.gjxfj.gov.cn
-http://www.12315.cn
-http://wsxf.gjxfj.gov.cn
-http://yhssglxt.miit.gov.cn
-http://hlwtsxt.miit.gov.cn
-http://tousu.www.gov.cn/dc
-http://www.gov.cn/hudong/xzlwh/
-http://tousu.sina.com.cn
-http://www.12377.cn
-mailto:CC@123pan.com
-http://web.archive.org
-https://www.123pan.com/member%60
-https://statics.123957.com/static/app\_pro/permanentVip.html%60
-https://www.123pan.com/UserAgreement/%60
-https://www.123pan.com/memberagreement%60
-mailto:CC@123pan.com
-mailto:CC@123pan.com
-mailto:CC@123pan.com
-http://www.123pan.com
-http://flk.npc.gov.cn](http://www.12315.cn
-http://wsxf.gjxfj.gov.cn
-mailto:CC@123pan.com
-mailto:CC@123pan.com
-http://www.12315.cn
-mailto:CC@123pan.com
-http://wsxf.gjxfj.gov.cn
-http://www.12315.cn
-http://wsxf.gjxfj.gov.cn
-http://yhssglxt.miit.gov.cn
-http://hlwtsxt.miit.gov.cn
-http://tousu.www.gov.cn/dc
-http://www.gov.cn/hudong/xzlwh/
-http://tousu.sina.com.cn
-http://www.12377.cn
-mailto:CC@123pan.com
-http://web.archive.org
-https://www.123pan.com/member%60
-https://statics.123957.com/static/app_pro/permanentVip.html%60
-https://www.123pan.com/UserAgreement/%60
-https://www.123pan.com/memberagreement%60
-mailto:CC@123pan.com
-mailto:CC@123pan.com
-mailto:CC@123pan.com
-http://www.123pan.com
-http://flk.npc.gov.cn)  · 2026-09-29
 
 ---
-_生成于 2026/10/13 16:12:17_
+_生成于 2026/10/13 16:12:48_
