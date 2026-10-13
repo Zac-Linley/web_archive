@@ -1,7 +1,20 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-13T16:12:15.296Z",
+  "updatedAt": "2026-10-13T16:12:45.000Z",
   "items": [
+    {
+      "id": "d4eaedac-765a-443f-ba8a-d237a2b48032",
+      "url": "https://meta.appinn.net/t/topic/93491",
+      "title": "【开源自荐】ATBClone -- 为任意macOS应用创建分身的工具 - 发现频道 - 小众软件官方论坛",
+      "folder": "",
+      "tags": [],
+      "note": "",
+      "createdAt": "2026-10-13T16:12:45.000Z",
+      "updatedAt": "2026-10-13T16:12:45.000Z",
+      "deleted": false,
+      "source": "ios-shortcut",
+      "snapshot": null
+    },
     {
       "id": "3d10f2d4-f0c9-45ff-abcc-ff7d7359e89d",
       "url": "https://www.appinn.com/bin456789-reinstall/",
