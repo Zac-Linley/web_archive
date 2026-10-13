@@ -1,7 +1,20 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-11T16:38:46.026Z",
+  "updatedAt": "2026-10-13T16:12:15.296Z",
   "items": [
+    {
+      "id": "3d10f2d4-f0c9-45ff-abcc-ff7d7359e89d",
+      "url": "https://www.appinn.com/bin456789-reinstall/",
+      "title": "reinstall：操作系统自己重装自己？这个开源项目有点神奇 - 小众软件",
+      "folder": "",
+      "tags": [],
+      "note": "",
+      "createdAt": "2026-10-13T16:12:15.296Z",
+      "updatedAt": "2026-10-13T16:12:15.296Z",
+      "deleted": false,
+      "source": "ios-shortcut",
+      "snapshot": null
+    },
     {
       "id": "b7f19bae-7f25-4f7d-b99f-6a4b43b8c6ce",
       "url": "https://github.com/zerx-lab/FluxDown/blob/main/README.zh-CN.md",
