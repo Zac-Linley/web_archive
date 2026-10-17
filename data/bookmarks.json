@@ -1,7 +1,20 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-13T16:12:45.000Z",
+  "updatedAt": "2026-10-17T18:44:37.741Z",
   "items": [
+    {
+      "id": "b8498c14-7487-49d9-8609-d6191bd518db",
+      "url": "https://thonny.org/",
+      "title": "Thonny, Python IDE for beginners",
+      "folder": "",
+      "tags": [],
+      "note": "",
+      "createdAt": "2026-10-17T18:44:37.741Z",
+      "updatedAt": "2026-10-17T18:44:37.741Z",
+      "deleted": false,
+      "source": "ios-shortcut",
+      "snapshot": null
+    },
     {
       "id": "d4eaedac-765a-443f-ba8a-d237a2b48032",
       "url": "https://meta.appinn.net/t/topic/93491",
