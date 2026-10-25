@@ -1,11 +1,11 @@
 # 📚 Web Archive 书签目录
-> **56** 条书签 · **2** 个文件夹 · **27** 个标签 · 最后更新：2026/10/25 06:49:38
+> **57** 条书签 · **2** 个文件夹 · **27** 个标签 · 最后更新：2026/10/25 07:31:10
 
 > 本文件自动生成，请勿手改。数据源：[data/bookmarks.json](data/bookmarks.json)
 
 ## 📖 目录
 
-📁 [旧收藏](#folder-1)（19） · [未分类](#folder-2)（37）
+📁 [旧收藏](#folder-1)（19） · [未分类](#folder-2)（38）
 
 [🏷️ 标签](#tags)（27） · [🕘 最近添加](#recent)
 
@@ -33,8 +33,9 @@
 - [用 pmset 管理 macOS 睡眠](https://sspai.com/matrix) `#MacOS` `#系统` — 少数派文章，介绍通过 pmset 命令管理 macOS 睡眠设置，让 Mac 休眠更省电、更可控…
 
 <a id="folder-2"></a>
-## 📁 未分类（37）
+## 📁 未分类（38）
 
+- [测试你的浏览器安全性：如果能打开这个网站，就踩中了印度证书机构的离谱大雷｜更新：eMudhra 已退出证书业务 - 小众软件](https://www.appinn.com/test-browser-security-emudhra-certificate/) 
 - [Telegram: View @TossLabChannel](https://t.me/TossLabChannel/1257) 
 - [Thonny, Python IDE for beginners](https://thonny.org/) 
 - [【开源自荐】ATBClone -- 为任意macOS应用创建分身的工具 - 发现频道 - 小众软件官方论坛](https://meta.appinn.net/t/topic/93491) 
@@ -131,6 +132,7 @@ http://flk.npc.gov.cn)
 <a id="recent"></a>
 ## 🕘 最近添加
 
+- [测试你的浏览器安全性：如果能打开这个网站，就踩中了印度证书机构的离谱大雷｜更新：eMudhra 已退出证书业务 - 小众软件](https://www.appinn.com/test-browser-security-emudhra-certificate/)  · 2026-10-25
 - [Telegram: View @TossLabChannel](https://t.me/TossLabChannel/1257)  · 2026-10-25
 - [Thonny, Python IDE for beginners](https://thonny.org/)  · 2026-10-17
 - [【开源自荐】ATBClone -- 为任意macOS应用创建分身的工具 - 发现频道 - 小众软件官方论坛](https://meta.appinn.net/t/topic/93491)  · 2026-10-13
@@ -140,7 +142,6 @@ http://flk.npc.gov.cn)
 - [【开发者自荐】Skills Hub，从网页合集安装 Skills，支持多工具管理和多设备同步 - 发现频道 - 小众软件官方论坛](https://meta.appinn.net/t/topic/93321)  · 2026-10-11
 - [【截图录屏】Shotnix：开源免费的 Mac 截图录屏工具，停止录制时视频已经剪好 - 发现频道 - 小众软件官方论坛](https://meta.appinn.net/t/topic/93323)  · 2026-10-11
 - [paseo/README.zh-CN.md at main · getpaseo/paseo · GitHub](https://github.com/getpaseo/paseo/blob/main/README.zh-CN.md)  · 2026-10-11
-- [为 iTerm2 Buddy 自托管中继服务器，加速手机连接 Mac 终端速度 - 小众软件](https://www.appinn.com/iterm2-buddy-self-hosted-relay-server/)  · 2026-10-11
 
 ---
-_生成于 2026/10/25 06:49:40_
+_生成于 2026/10/25 07:31:12_
