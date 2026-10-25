@@ -1,7 +1,20 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-17T18:44:37.741Z",
+  "updatedAt": "2026-10-25T06:49:38.252Z",
   "items": [
+    {
+      "id": "1d2d9500-9d93-45e0-8d43-5506ad07e973",
+      "url": "https://t.me/TossLabChannel/1257",
+      "title": "Telegram: View @TossLabChannel",
+      "folder": "",
+      "tags": [],
+      "note": "",
+      "createdAt": "2026-10-25T06:49:38.252Z",
+      "updatedAt": "2026-10-25T06:49:38.252Z",
+      "deleted": false,
+      "source": "ios-shortcut",
+      "snapshot": null
+    },
     {
       "id": "b8498c14-7487-49d9-8609-d6191bd518db",
       "url": "https://thonny.org/",
