@@ -1,7 +1,20 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-25T07:31:10.791Z",
+  "updatedAt": "2026-10-26T19:09:35.989Z",
   "items": [
+    {
+      "id": "355c42d5-fe01-4444-9be3-895bf6391c71",
+      "url": "https://crestbrowser.com/",
+      "title": "Crest — The browser for life after Arc",
+      "folder": "",
+      "tags": [],
+      "note": "",
+      "createdAt": "2026-10-26T19:09:35.989Z",
+      "updatedAt": "2026-10-26T19:09:35.989Z",
+      "deleted": false,
+      "source": "ios-shortcut",
+      "snapshot": null
+    },
     {
       "id": "a1812f1c-c890-4c9b-9cc8-275270e2db1d",
       "url": "https://www.appinn.com/test-browser-security-emudhra-certificate/",
