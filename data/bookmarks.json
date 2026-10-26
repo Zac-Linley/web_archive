@@ -1,7 +1,20 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-26T19:09:35.989Z",
+  "updatedAt": "2026-10-26T19:15:51.696Z",
   "items": [
+    {
+      "id": "5b1a0462-4f84-4774-be7b-de81f32c7fb0",
+      "url": "https://ardia.dev/",
+      "title": "Ardia · a free Arc alternative for Mac, with Dia’s polish",
+      "folder": "",
+      "tags": [],
+      "note": "",
+      "createdAt": "2026-10-26T19:15:51.696Z",
+      "updatedAt": "2026-10-26T19:15:51.696Z",
+      "deleted": false,
+      "source": "ios-shortcut",
+      "snapshot": null
+    },
     {
       "id": "355c42d5-fe01-4444-9be3-895bf6391c71",
       "url": "https://crestbrowser.com/",
