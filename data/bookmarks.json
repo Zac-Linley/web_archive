@@ -1,7 +1,20 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-28T10:05:08.423Z",
+  "updatedAt": "2026-10-28T12:42:25.034Z",
   "items": [
+    {
+      "id": "323ea09c-8e43-488a-8b81-8e8896f51474",
+      "url": "https://www.v2ex.com/t/1252514#reply0",
+      "title": "[开源发布] ： Me2Cloud，从你自己家的网络，测到各大云 360+ 个区域的真实延迟（开源，可自部署） - V2EX",
+      "folder": "",
+      "tags": [],
+      "note": "",
+      "createdAt": "2026-10-28T12:42:25.034Z",
+      "updatedAt": "2026-10-28T12:42:25.034Z",
+      "deleted": false,
+      "source": "ios-shortcut",
+      "snapshot": null
+    },
     {
       "id": "cf9d225a-28e0-4b29-8c32-096778361630",
       "url": "https://github.com/greenzorro/project-manager/blob/main/README_ZH_CN.md",
