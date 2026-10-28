@@ -1,11 +1,11 @@
 # 📚 Web Archive 书签目录
-> **59** 条书签 · **2** 个文件夹 · **27** 个标签 · 最后更新：2026/10/26 19:15:51
+> **60** 条书签 · **2** 个文件夹 · **27** 个标签 · 最后更新：2026/10/28 10:05:08
 
 > 本文件自动生成，请勿手改。数据源：[data/bookmarks.json](data/bookmarks.json)
 
 ## 📖 目录
 
-📁 [旧收藏](#folder-1)（19） · [未分类](#folder-2)（40）
+📁 [旧收藏](#folder-1)（19） · [未分类](#folder-2)（41）
 
 [🏷️ 标签](#tags)（27） · [🕘 最近添加](#recent)
 
@@ -33,8 +33,9 @@
 - [用 pmset 管理 macOS 睡眠](https://sspai.com/matrix) `#MacOS` `#系统` — 少数派文章，介绍通过 pmset 命令管理 macOS 睡眠设置，让 Mac 休眠更省电、更可控…
 
 <a id="folder-2"></a>
-## 📁 未分类（40）
+## 📁 未分类（41）
 
+- [project-manager/README\_ZH\_CN.md at main · greenzorro/project-manager · GitHub](https://github.com/greenzorro/project-manager/blob/main/README_ZH_CN.md) 
 - [Ardia · a free Arc alternative for Mac, with Dia’s polish](https://ardia.dev/) 
 - [Crest — The browser for life after Arc](https://crestbrowser.com/) 
 - [测试你的浏览器安全性：如果能打开这个网站，就踩中了印度证书机构的离谱大雷｜更新：eMudhra 已退出证书业务 - 小众软件](https://www.appinn.com/test-browser-security-emudhra-certificate/) 
@@ -134,6 +135,7 @@ http://flk.npc.gov.cn)
 <a id="recent"></a>
 ## 🕘 最近添加
 
+- [project-manager/README\_ZH\_CN.md at main · greenzorro/project-manager · GitHub](https://github.com/greenzorro/project-manager/blob/main/README_ZH_CN.md)  · 2026-10-28
 - [Ardia · a free Arc alternative for Mac, with Dia’s polish](https://ardia.dev/)  · 2026-10-26
 - [Crest — The browser for life after Arc](https://crestbrowser.com/)  · 2026-10-26
 - [测试你的浏览器安全性：如果能打开这个网站，就踩中了印度证书机构的离谱大雷｜更新：eMudhra 已退出证书业务 - 小众软件](https://www.appinn.com/test-browser-security-emudhra-certificate/)  · 2026-10-25
@@ -143,7 +145,6 @@ http://flk.npc.gov.cn)
 - [reinstall：操作系统自己重装自己？这个开源项目有点神奇 - 小众软件](https://www.appinn.com/bin456789-reinstall/)  · 2026-10-13
 - [FluxDown/README.zh-CN.md at main · zerx-lab/FluxDown · GitHub](https://github.com/zerx-lab/FluxDown/blob/main/README.zh-CN.md)  · 2026-10-11
 - [PMail/README\_CN.md at master · Jinnrry/PMail · GitHub](https://github.com/Jinnrry/PMail/blob/master/README_CN.md)  · 2026-10-11
-- [【开发者自荐】Skills Hub，从网页合集安装 Skills，支持多工具管理和多设备同步 - 发现频道 - 小众软件官方论坛](https://meta.appinn.net/t/topic/93321)  · 2026-10-11
 
 ---
-_生成于 2026/10/26 19:15:54_
+_生成于 2026/10/28 10:05:10_
