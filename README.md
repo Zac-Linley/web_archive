@@ -1,11 +1,11 @@
 # 📚 Web Archive 书签目录
-> **60** 条书签 · **2** 个文件夹 · **27** 个标签 · 最后更新：2026/10/28 10:05:08
+> **61** 条书签 · **2** 个文件夹 · **27** 个标签 · 最后更新：2026/10/28 12:42:25
 
 > 本文件自动生成，请勿手改。数据源：[data/bookmarks.json](data/bookmarks.json)
 
 ## 📖 目录
 
-📁 [旧收藏](#folder-1)（19） · [未分类](#folder-2)（41）
+📁 [旧收藏](#folder-1)（19） · [未分类](#folder-2)（42）
 
 [🏷️ 标签](#tags)（27） · [🕘 最近添加](#recent)
 
@@ -33,8 +33,9 @@
 - [用 pmset 管理 macOS 睡眠](https://sspai.com/matrix) `#MacOS` `#系统` — 少数派文章，介绍通过 pmset 命令管理 macOS 睡眠设置，让 Mac 休眠更省电、更可控…
 
 <a id="folder-2"></a>
-## 📁 未分类（41）
+## 📁 未分类（42）
 
+- [\[开源发布\] ： Me2Cloud，从你自己家的网络，测到各大云 360+ 个区域的真实延迟（开源，可自部署） - V2EX](https://www.v2ex.com/t/1252514#reply0) 
 - [project-manager/README\_ZH\_CN.md at main · greenzorro/project-manager · GitHub](https://github.com/greenzorro/project-manager/blob/main/README_ZH_CN.md) 
 - [Ardia · a free Arc alternative for Mac, with Dia’s polish](https://ardia.dev/) 
 - [Crest — The browser for life after Arc](https://crestbrowser.com/) 
@@ -135,6 +136,7 @@ http://flk.npc.gov.cn)
 <a id="recent"></a>
 ## 🕘 最近添加
 
+- [\[开源发布\] ： Me2Cloud，从你自己家的网络，测到各大云 360+ 个区域的真实延迟（开源，可自部署） - V2EX](https://www.v2ex.com/t/1252514#reply0)  · 2026-10-28
 - [project-manager/README\_ZH\_CN.md at main · greenzorro/project-manager · GitHub](https://github.com/greenzorro/project-manager/blob/main/README_ZH_CN.md)  · 2026-10-28
 - [Ardia · a free Arc alternative for Mac, with Dia’s polish](https://ardia.dev/)  · 2026-10-26
 - [Crest — The browser for life after Arc](https://crestbrowser.com/)  · 2026-10-26
@@ -144,7 +146,6 @@ http://flk.npc.gov.cn)
 - [【开源自荐】ATBClone -- 为任意macOS应用创建分身的工具 - 发现频道 - 小众软件官方论坛](https://meta.appinn.net/t/topic/93491)  · 2026-10-13
 - [reinstall：操作系统自己重装自己？这个开源项目有点神奇 - 小众软件](https://www.appinn.com/bin456789-reinstall/)  · 2026-10-13
 - [FluxDown/README.zh-CN.md at main · zerx-lab/FluxDown · GitHub](https://github.com/zerx-lab/FluxDown/blob/main/README.zh-CN.md)  · 2026-10-11
-- [PMail/README\_CN.md at master · Jinnrry/PMail · GitHub](https://github.com/Jinnrry/PMail/blob/master/README_CN.md)  · 2026-10-11
 
 ---
-_生成于 2026/10/28 10:05:10_
+_生成于 2026/10/28 12:42:27_
