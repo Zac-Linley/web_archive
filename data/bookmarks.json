@@ -1,7 +1,20 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-26T19:15:51.696Z",
+  "updatedAt": "2026-10-28T10:05:08.423Z",
   "items": [
+    {
+      "id": "cf9d225a-28e0-4b29-8c32-096778361630",
+      "url": "https://github.com/greenzorro/project-manager/blob/main/README_ZH_CN.md",
+      "title": "project-manager/README_ZH_CN.md at main · greenzorro/project-manager · GitHub",
+      "folder": "",
+      "tags": [],
+      "note": "",
+      "createdAt": "2026-10-28T10:05:08.423Z",
+      "updatedAt": "2026-10-28T10:05:08.423Z",
+      "deleted": false,
+      "source": "ios-shortcut",
+      "snapshot": null
+    },
     {
       "id": "5b1a0462-4f84-4774-be7b-de81f32c7fb0",
       "url": "https://ardia.dev/",
